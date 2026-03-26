@@ -1,0 +1,128 @@
+{
+  "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/semaine-entreprises-et-soutenances-2023",
+  "canonical_url": "https://www.ensiie.fr/",
+  "url_path": "/ecole/actualites-et-evenements/semaine-entreprises-et-soutenances-2023",
+  "domain": "www.ensiie.fr",
+  "title": "SEMAINE ENTREPRISES ET SOUTENANCES 2023 | ENSIIE",
+  "description": "Jury de soutenances. En parallèle, Journée Entreprises le mardi 24 octobre Conférences des entreprises partenaires toute la journée.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "SEMAINE ENTREPRISES ET SOUTENANCES 2023"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "Campagne recrutement enseignant-chercheur 2026",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE"
+    ],
+    "h3": [],
+    "h4": [
+      "Programme :"
+    ]
+  },
+  "word_count": 198,
+  "char_count": 1370,
+  "og_title": "SEMAINE ENTREPRISES ET SOUTENANCES 2023",
+  "og_image": "https://www.ensiie.fr/sites/default/files/articles/BANNIERE-JOURNEE-DES-ENTREPRISES.png",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:24.329815+00:00",
+  "depth": 4,
+  "parent_url": "https://www.ensiie.fr/ecole/actualites-et-evenements/gala-20-octobre-2023",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/semaine-entreprises-et-soutenances-2023",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : SEMAINE ENTREPRISES ET SOUTENANCES 2023&body=https://www.ensiie.fr/ecole/actualites-et-evenements/semaine-entreprises-et-soutenances-2023",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "https://www.ensiie.fr/lecole/actualites-et-evenements",
+      "text": "Tous les evenements"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/gala-20-octobre-2023",
+      "text": "GALA - 20 octobre 2023"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/forum-horizons-informatiques-25-oct-2023",
+      "text": "FORUM HORIZONS INFORMATIQUES - 25 oct 2023"
+    },
+    {
+      "url": "https://www.ensiie.fr/campagne-recrutement-enseignant-chercheur-2026",
+      "text": "Campagne recrutement enseignant-chercheur 2026"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/form/newsletter",
+      "text": "s'inscrire"
+    },
+    {
+      "url": "https://www.ensiie.fr/entreprise/newsletters",
+      "text": "Toutes nos newsletters"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/ecole/actualites-et-evenements/semaine-entreprises-et-soutenances-2023&title=SEMAINE+ENTREPRISES+ET+SOUTENANCES+2023",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/ecole/actualites-et-evenements/semaine-entreprises-et-soutenances-2023&text=SEMAINE+ENTREPRISES+ET+SOUTENANCES+2023&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/ecole/actualites-et-evenements/semaine-entreprises-et-soutenances-2023",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/styles/ensiie/public/articles/BANNIERE-JOURNEE-DES-ENTREPRISES.png.webp?itok=i2RbNvvo",
+      "alt": "BANNIÈRE - JOURNÉE DES ENTREPRISES",
+      "title": "BANNIÈRE - JOURNÉE DES ENTREPRISES"
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/ecole_actualites-et-evenements_semaine-entreprises-et-soutenances-2023_d103d3a7.txt"
+}

@@ -1,0 +1,124 @@
+{
+  "url": "http://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+  "canonical_url": "https://www.ensiie.fr/",
+  "url_path": "/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+  "domain": "www.ensiie.fr",
+  "title": "Webinaire d'info : Master of Science de l'ensIIE | ENSIIE",
+  "description": "L'ensIIE vous propose de participer à deux webinaires pour découvrir son programme : - Master of Science® (MSc) in \"Financial Technology and Data Science\"",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Webinaire d'info : Master of Science de l'ensIIE"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "FAQ",
+      "Ingénieur(e)s de demain",
+      "JOURNÉE PORTES OUVERTES 2026"
+    ],
+    "h3": [],
+    "h4": [
+      "INSCRIPTION OBLIGATOIRE"
+    ]
+  },
+  "word_count": 120,
+  "char_count": 830,
+  "og_title": "Webinaire d'info : Master of Science de l'ensIIE",
+  "og_image": "https://www.ensiie.fr/sites/default/files/articles/post-siteweb_webinaire_0.jpg",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:52.841021+00:00",
+  "depth": 10,
+  "parent_url": "http://www.ensiie.fr/",
+  "internal_links": [
+    {
+      "url": "http://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : Webinaire d'info : Master of Science de l'ensIIE&body=https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "http://www.ensiie.fr/lecole/actualites-et-evenements",
+      "text": "Tous les evenements"
+    },
+    {
+      "url": "http://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    },
+    {
+      "url": "http://www.ensiie.fr/ecole/actualites-et-evenements/bakanim-2026",
+      "text": "BAKANIM' 2026"
+    },
+    {
+      "url": "http://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "http://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    },
+    {
+      "url": "http://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026",
+      "text": "JOURNÉE PORTES OUVERTES 2026"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://enquete.ensiie.fr/index.php/437363?lang=fr",
+      "text": "S'INSCRIRE"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie&title=Webinaire+d%27info+%3A+Master+of+Science+de+l%27ensIIE",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie&text=Webinaire+d%27info+%3A+Master+of+Science+de+l%27ensIIE&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://www.ensiie.fr/sites/default/files/styles/ensiie/public/articles/post-siteweb_webinaire_0.jpg.webp?itok=LUUjhogH",
+      "alt": "visuel",
+      "title": "visuel"
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/ecole_actualites-et-evenements_webinaire-dinfo-master-science-de-lensiie_1e530120.txt"
+}

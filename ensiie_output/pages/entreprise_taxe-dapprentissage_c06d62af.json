@@ -1,0 +1,123 @@
+{
+  "url": "https://www.ensiie.fr/entreprise/taxe-dapprentissage",
+  "canonical_url": "https://www.ensiie.fr/entreprise/taxe-dapprentissage",
+  "url_path": "/entreprise/taxe-dapprentissage",
+  "domain": "www.ensiie.fr",
+  "title": "Taxe d'apprentissage | ENSIIE",
+  "description": "Versez votre taxe d'apprentissage à l'ensIIE",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Taxe d'apprentissage"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "Une plateforme unique pour flécher votre solde de taxe d'apprentissage : SOLTéA",
+      "Campagne recrutement enseignant-chercheur 2026",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE"
+    ],
+    "h3": [
+      "Vous voulez en savoir plus ? Téléchargez nos documents",
+      "Pourquoi soutenir l'ensIIE ?"
+    ],
+    "h4": []
+  },
+  "word_count": 415,
+  "char_count": 2850,
+  "og_title": "Taxe d'apprentissage",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:50.384706+00:00",
+  "depth": 8,
+  "parent_url": "https://www.ensiie.fr/ecole/actualites-et-evenements/taxe-dapprentissage-2025-0",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/entreprise/taxe-dapprentissage",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "https://www.ensiie.fr/sites/default/files/documents/2023-Comment-affecter-votre-solde-de-taxe_vf-2.pdf",
+      "text": ""
+    },
+    {
+      "url": "tel:01 69 36 74 92",
+      "text": "01 69 36 74 92"
+    },
+    {
+      "url": "mailto:taxe_apprentissage@ensiie.fr",
+      "text": "taxe_apprentissage@ensiie.fr"
+    },
+    {
+      "url": "https://www.ensiie.fr/sites/default/files/documents/FAQ_TA_2025.pdf",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/form/brochure?fid=633",
+      "text": "Liste verseurs"
+    },
+    {
+      "url": "https://www.ensiie.fr/campagne-recrutement-enseignant-chercheur-2026",
+      "text": "Campagne recrutement enseignant-chercheur 2026"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://enquete.ensiie.fr/index.php/729764?lang=fr",
+      "text": "Avis de versement TA en ligne"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/documents/comment_versez-TA_0.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/documents/Remerciements_TA-2024.jpg",
+      "alt": "",
+      "title": ""
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/entreprise_taxe-dapprentissage_c06d62af.txt"
+}
