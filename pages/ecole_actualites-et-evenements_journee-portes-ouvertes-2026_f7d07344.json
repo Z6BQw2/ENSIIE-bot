@@ -1,0 +1,132 @@
+{
+  "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026",
+  "canonical_url": "https://www.ensiie.fr/",
+  "url_path": "/ecole/actualites-et-evenements/journee-portes-ouvertes-2026",
+  "domain": "www.ensiie.fr",
+  "title": "JOURNÉE PORTES OUVERTES 2026 | ENSIIE",
+  "description": "Une journée découverte, pour répondre à toutes vos questions et partager un bon moment avec notre équipe pédagogique et nos étudiants !",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "JOURNÉE PORTES OUVERTES 2026"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "PRÉ-INSCRIPTION",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain"
+    ],
+    "h3": [
+      "PROGRAMME :"
+    ],
+    "h4": [
+      "Ateliers :"
+    ]
+  },
+  "word_count": 166,
+  "char_count": 1212,
+  "og_title": "JOURNÉE PORTES OUVERTES 2026",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:10.785625+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/lecole/actualites-et-evenements",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : JOURNÉE PORTES OUVERTES 2026&body=https://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "https://www.ensiie.fr/lecole/actualites-et-evenements",
+      "text": "Tous les evenements"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/exposition-ensiie-art-fair-entre-art-industrie-et-entreprises",
+      "text": "Exposition, ensIIE ART FAIR : \"Entre Art, Industrie et Entreprises : regards croisés\""
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://enquete.ensiie.fr/index.php/929592?lang=fr",
+      "text": "Pré-inscription jpo 2026"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026&title=JOURN%C3%89E+PORTES+OUVERTES+2026",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026&text=JOURN%C3%89E+PORTES+OUVERTES+2026&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/images/1_0.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/images/JPO-2025_portrait.jpg",
+      "alt": "",
+      "title": ""
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/ecole_actualites-et-evenements_journee-portes-ouvertes-2026_f7d07344.txt"
+}

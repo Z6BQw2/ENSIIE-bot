@@ -1,0 +1,122 @@
+{
+  "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/game-jam-grace-elles",
+  "canonical_url": "https://www.ensiie.fr/",
+  "url_path": "/ecole/actualites-et-evenements/game-jam-grace-elles",
+  "domain": "www.ensiie.fr",
+  "title": "Game Jam \"Grâce a Elles\" | ENSIIE",
+  "description": "Dans le cadre du lancement de son grand programme \"ensIIE au Féminin\", visant à attirer davantage de talents féminins, à transformer les mentalités et la formation en ingénierie, notre Grande école publique d’ingénieur(e)s s’engage activement pour plus de diversité et d’inclusion.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Game Jam \"Grâce a Elles\""
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 286,
+  "char_count": 1820,
+  "og_title": "Game Jam \"Grâce a Elles\"",
+  "og_image": "https://www.ensiie.fr/sites/default/files/articles/Game-Jam_ensIIE-SNE.jpg",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:55.096916+00:00",
+  "depth": 10,
+  "parent_url": "https://www.ensiie.fr/ecole/actualites-et-evenements/junior-academie-du-numerique",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/game-jam-grace-elles",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : Game Jam \"Grâce a Elles\"&body=https://www.ensiie.fr/ecole/actualites-et-evenements/game-jam-grace-elles",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "https://www.ensiie.fr/lecole/actualites-et-evenements",
+      "text": "Tous les evenements"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinar",
+      "text": "Webinar"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/junior-academie-du-numerique",
+      "text": "JUNIOR ACADÉMIE DU NUMÉRIQUE"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://forms.gle/xirCk9AREnaPTUwz6",
+      "text": "Inscrivez-vous dès maintenant"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/ecole/actualites-et-evenements/game-jam-grace-elles&title=Game+Jam+%22Gr%C3%A2ce+a+Elles%22",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/ecole/actualites-et-evenements/game-jam-grace-elles&text=Game+Jam+%22Gr%C3%A2ce+a+Elles%22&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/ecole/actualites-et-evenements/game-jam-grace-elles",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/styles/ensiie/public/articles/Game-Jam_ensIIE-SNE.jpg.webp?itok=woJqwlCa",
+      "alt": "Affiche Game Jam",
+      "title": "Affiche Game Jam"
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/ecole_actualites-et-evenements_game-jam-grace-elles_cf605674.txt"
+}
