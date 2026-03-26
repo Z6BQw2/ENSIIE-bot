@@ -1,0 +1,110 @@
+{
+  "url": "https://www.ensiie.fr/faq",
+  "canonical_url": "https://www.ensiie.fr/faq",
+  "url_path": "/faq",
+  "domain": "www.ensiie.fr",
+  "title": "FAQ | ENSIIE",
+  "description": "L'ensIIE répond à toutes vos questions, classées par thèmes de recherche.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "FAQ"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "INTÉGRATION",
+      "l'ensIIE",
+      "Frais de scolarité",
+      "Bourse",
+      "Logement",
+      "Formation",
+      "Réorientation",
+      "Doubles diplômes",
+      "Étudiant(e)s étranger(e)s",
+      "Diplôme/Niveau d'entrée",
+      "CANDIDATURE",
+      "Liste d'attente",
+      "Mail de confirmation",
+      "Modification/Ajout de documents",
+      "Dépôt de candidature",
+      "Documents requis",
+      "Entretien",
+      "Rétractation",
+      "Candidatue non-retenue",
+      "ALTERNANCE",
+      "Planning prévisionnel",
+      "Type d'offres",
+      "PROBLÈMES TECHNIQUES",
+      "Contact",
+      "AUTRE",
+      "Questions",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain",
+      "JOURNÉE PORTES OUVERTES 2026"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 2778,
+  "char_count": 20319,
+  "og_title": "FAQ",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:14.389557+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/international/mobilite-internationale",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/journee-portes-ouvertes-2026",
+      "text": "JOURNÉE PORTES OUVERTES 2026"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/faq_b9110cb3.txt"
+}

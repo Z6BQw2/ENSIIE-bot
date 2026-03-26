@@ -1,0 +1,226 @@
+Jeux Vidéo et Interactions Numériques
+
+Chapô
+ 
+L’objectif est de former des ingénieurs aux compétences requises pour concevoir, réaliser, améliorer et évaluer des systèmes humains-machines interactifs et temps réel et/ou ayant une forte dimension image.
+
+Texte d’introduction
+ 
+Le parcours démarre au semestre 3 par des modules généralistes et d’informatique (programmation avancée, génie logiciel, réseau, méthodes agiles, etc.) et une première approche du développement de jeux vidéo.
+
+Il se poursuit au semestre 4 avec des modules plus spécifiques aux domaines visés : réalité virtuelle et augmentée, informatique graphique, IA, jeux vidéo, biométrie, arts numériques… qui peuvent être complétés par d’autres enseignements (C++, réseau…).
+
+Le S5 est entièrement consacré à la filière de spécialisation JIN (Jeux vidéo, Interactions et collaborations Numériques) commune avec Télécom-SudParis. Les enseignements et les nombreux projets permettent d’approfondir les aspects techniques (interactions humains-machines, vision 3D, modélisation 3D, rendu temps réel, agents intelligents, IoT, réseau et cloud, développement mobile) mais aussi humains (gestion de projet, design, économie du JV, game design, sociologie de l’innovation, communication). L’ouverture est favorisée via de nombreuses conférences et collaborations avec des créatifs.
+
+Des semestres peuvent également être effectués dans une université étrangère partenaires (ex. UQAC). Et un Master 2 peut être suivi en bi-cursus en dernière année (ex. M2 E3A-RVSI de l’Université Paris-Saclay).
+
+Depuis 2015, les diplômés du parcours ont formé un solide réseau, dans le jeu vidéo (Ubisoft, Asobo, Kylotonn, Amplitude, Dontnod…), le conseil, ou l’industrie (Dassault Systèmes, Holoforge, GFI, Thales, Sopra Steria…).
+
+Responsable de la formation
+ 
+
+ Guillaume Bouyer
+
+Fonction
+ 
+IBISC
+
+Email de contact
+ 
+resp-parcours@listes.ensiie.fr
+
+Corps de page
+ 
+
+ 
+
+Titre
+ 
+Liste des Unités d'enseignement (UE)
+
+Semestre Titre
+ 
+Semestre
+
+ 
+
+Texte
+ 
+S3
+Conception de jeu vidéo
+Génie Logiciel
+Langage objet avancée
+Analyse de Données 
+Sécurité Réseau et Middleware OU Introduction à la programmation scientifique
+S4
+Réseaux IP et Administration LAN
+Intelligence Artificielle  et Systèmes Experts
+Images et Réalité Augmentée 
+Conception de jeux vidéos avancés
+Réalité Virtuelle et Informatique Graphique
+Reconnaissance des formes et biométrie
+S5
+Modélisation et rendu
+Interactions et capteurs
+Systèmes interagissant en réseau
+Développement mobile et Intelligence Artificielle
+Profils de communication et comportement
+Sciences Humaines et Sociales et Design
+Projet d'approfondissement
+Projet de fin d’étude
+Introduction moteur de jeu
+Équipe, gestion de projet, conception, réalisation, tests, clients, pitchs, soutenances, vidéo, poster, démonstration, échanges
+Autres activités pédagogiques
+ Echanges avec la Licence Pro Métier du Jeu Vidéo de l'IUT de Bobigny
+Gamejam Unijam pour les étudiants ENSIIE - TSP - IUT Bobigny
+Cycle de conférences 
+
+ 
+
+Texte
+ 
+Autres Diplômes en bi-cursus
+Master EEEA - Parcours RVSI
+Réalité Virtuelle et Systèmes Intelligents
+Pour les parcours à l’étranger(niveau équivalent aux semestres), voir avec le service des Relations Internationales.
+
+ 
+
+Titre
+ 
+Métiers
+
+Texte
+ 
+Ingénieur Développeur jeux vidéo
+Lead Développeur jeux vidéos
+Ingénieur R&D interactions numériques
+
+Titre
+ 
+Exemples de stages
+
+Texte
+ 
+Paysages 3D temps réel 
+chez 
+Pixel Wizards
+Recherche, études et développement en Gamification 
+chez 
+Fremen Corp
+Reconnaissance d’objets réels à partir d’un dispositif de réalité augmentée chez 
+ASOBO Studio
+Game Play Unity chez 
+Dassault Systèmes
+
+ 
+
+Documents
+ 
+
+ 
+
+Document
+ 
+Les applications et mises en œuvre liées au parcours JIN
+ (pdf, 458.5 Ko)
+
+ 
+
+Document
+ 
+Fiche Parcours Jeux Vidéo et Interactions Numériques
+ (pdf, 320.48 Ko)
+
+ 
+
+Citation
+ 
+JIN est une vraie chance de découvrir plein d'angles intéressants de l'informatique, et de mixer à cela de la créativité et des propositions personnelles. La filière représente aussi l'accès à un réseau d'anciens très réactifs et toujours disponibles pour partager des astuces, des offres d'emplois, ou des verres en terrasse (quand c'est autorisé).
+
+Nom
+ 
+Alice Glémarec
+
+Promotion
+ 
+Promotion 2018
+
+Métier
+ 
+Professeur de Numérique et Sciences Informatiques
+
+Lycée Albert-de-Mun, Nogent-sur-Marne
+
+Citation
+ 
+JIN est une des rares formations publiques dans le domaine du jeu vidéo : ses enseignements ont été un vrai boost pour ma carrière qui a suivi cette dernière année. Je garde un excellent souvenir de la formation. Les anciens JIN forment une grande famille sur laquelle je m'appuie beaucoup aujourd'hui.
+
+Nom
+ 
+Élodie Bouziat
+
+Promotion
+ 
+Promotion 2019
+
+Métier
+ 
+Project Coordinator Ubisoft Bordeaux
+
+Nom
+ 
+Louis Lafuma
+
+Promotion
+ 
+Promotion 2020
+
+Cursus
+ 
+MASTER RVSI
+
+Métier
+ 
+Ingénieur-Doctorant
+
+HoloForge (Asobo studio) / IBISC (Univ. Paris Saclay)
+
+1
+2
+3
+
+Partager cette page :
+
+LinkedIn
+
+Twitter
+
+Facebook
+
+Envoyer par mail
+
+ 
+
+Parcours
+ 
+
+Génie logiciel et Sécurité
+ 
+Mathématiques appliquées
+ 
+
+ 
+Voir aussi
+
+FAQ
+
+09.03.2026
+
+Webinaire d'info : Master of Science de l'ensIIE
+
+05.03.2026
+
+Ingénieur(e)s de demain 
+
+19.02.2026

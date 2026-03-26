@@ -1,0 +1,121 @@
+{
+  "url": "https://www.ensiie.fr/international/mobilite-internationale",
+  "canonical_url": "https://www.ensiie.fr/international/mobilite-internationale",
+  "url_path": "/international/mobilite-internationale",
+  "domain": "www.ensiie.fr",
+  "title": "Mobilité internationale | ENSIIE",
+  "description": "Conditions et informations concernant la mobilité sortante",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Mobilité internationale"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "Partir à l'Étranger avec l'ENSIIE",
+      "Témoignages d'Étudiants",
+      "Campagne recrutement enseignant-chercheur 2026",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE"
+    ],
+    "h3": [
+      "Pourquoi partir ?",
+      "Obligations pour les Étudiants Ingénieurs",
+      "Séjour Académique : Choix de Partenariats",
+      "Où partir ?",
+      "Financer son Départ",
+      "Téléchargement"
+    ],
+    "h4": []
+  },
+  "word_count": 1205,
+  "char_count": 7671,
+  "og_title": "Mobilité internationale",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:05.758579+00:00",
+  "depth": 1,
+  "parent_url": "https://www.ensiie.fr/",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/international/mobilite-internationale",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:rel-int@listes.ensiie.fr",
+      "text": "rel-int@listes.ensiie.fr"
+    },
+    {
+      "url": "https://www.ensiie.fr/campagne-recrutement-enseignant-chercheur-2026",
+      "text": "Campagne recrutement enseignant-chercheur 2026"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://acrobat.adobe.com/id/urn:aaid:sc:EU:280b3801-2da5-480c-ba6a-37f101f156e8",
+      "text": "CHARTE ERASMUS"
+    },
+    {
+      "url": "https://bde.iiens.net/etranger/",
+      "text": "Club RI"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/images/Erasmus_New-logo-2024-blue-e1730116918358_0_0.png",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/images/Logo_of_the_European_Commission_(fr).svg_1.png",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/images/IMG_0570.jpeg",
+      "alt": "",
+      "title": ""
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/international_mobilite-internationale_714e01d9.txt"
+}

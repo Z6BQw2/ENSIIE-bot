@@ -1,0 +1,197 @@
+{
+  "url": "https://www.ensiie.fr/formation/trouver-votre-formation/licence-master-et-doctorat",
+  "canonical_url": "https://www.ensiie.fr/formation/trouver-votre-formation/licence-master-et-doctorat",
+  "url_path": "/formation/trouver-votre-formation/licence-master-et-doctorat",
+  "domain": "www.ensiie.fr",
+  "title": "Licence, Master et Doctorat | ENSIIE",
+  "description": "La formation ingénieur de l'ENSIIE suit les principes de la structure LMD, ce qui favorise grandement la mobilité entre les autres formations et établissements français ou étrangers.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Licence, Master et Doctorat"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "LICENCE DE MATHÉMATIQUES",
+      "MASTERS",
+      "DOCTORAT",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain"
+    ],
+    "h3": [
+      "Master 1 Paris  Saclay",
+      "Masters 2"
+    ],
+    "h4": [
+      "Master 2 Paris Saclay",
+      "Master Institut Polytechnique de Paris"
+    ]
+  },
+  "word_count": 574,
+  "char_count": 4000,
+  "og_title": "Licence, Master et Doctorat",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:15.105607+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/formation/trouver-votre-formation/la-formation-initiale-sous-statut-etudiant-fise",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/formation/trouver-votre-formation/licence-master-et-doctorat",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "https://www.ensiie.fr/sites/default/files/documents/ensiie_parcours_formations.pdf",
+      "text": "TÉLÉCHARGEZ NOTRE PLAQUETTE"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : Licence, Master et Doctorat&body=https://www.ensiie.fr/formation/trouver-votre-formation/licence-master-et-doctorat",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.univ-evry.fr/accueil.html",
+      "text": "Université d’Evry-Val-d’Essonne"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/fr/formation/master/m1-mathematiques-appliquees-site-evry",
+      "text": "Mathématiques Appliquées (Site Évry)"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m1-mathematiques-appliquees-site-evry",
+      "text": "M2IF"
+    },
+    {
+      "url": "http://www.math-evry.cnrs.fr/departement/doku.php?id=formation:master:m2ds",
+      "text": "M2DS"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/master/finance/m2-gestion-des-risques-et-des-actifs",
+      "text": "GRA"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/master/marketing-vente/m2-innovation-marches-et-science-des-donnees",
+      "text": "IMSD"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/master/informatique/m2-artificial-intelligence",
+      "text": "AI"
+    },
+    {
+      "url": "http://formations.univ-evry.fr/fr/catalogue-2020-2024/licence-XA/licence-XA/informatique-J7W4814F/conception-et-intelligence-des-lociciels-et-des-systemes-cils-J833W3GQ.html",
+      "text": "CILS"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-realite-virtuelle-et-systemes-intelligents",
+      "text": "RVSI"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/en/education/master/m2-fondements-de-linformatique-et-ingenierie-du-logiciel-foundations-of-computer",
+      "text": "FIIL"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/master/informatique/m2-datascale-gestion-de-donnees-et-extraction-de-connaissances-large-echelle",
+      "text": "Datascale"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-traitement-de-linformation-et-exploitation-donnees",
+      "text": "TRIED"
+    },
+    {
+      "url": "https://www.ip-paris.fr/education/masters/mention-informatique/master-2-recherche-operationnelle",
+      "text": "MPRO"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh",
+      "text": "École Doctorale de Mathématiques Hadamard"
+    },
+    {
+      "url": "https://centreborelli.ens-paris-saclay.fr/fr",
+      "text": "https://centreborelli.ens-paris-saclay.fr/fr"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/ecoles-doctorales/sciences-et-technologies-de-linformation-et-de-la-communication-stic",
+      "text": "École"
+    },
+    {
+      "url": "https://www.edite-de-paris.fr/",
+      "text": "Doctorale EDITE"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/ecoles-doctorales/sciences-et-technologies-de-linformation-et-de-la-communication-stic",
+      "text": "École doctorale STIC de Paris-Saclay"
+    },
+    {
+      "url": "https://www.lisn.upsaclay.fr/",
+      "text": "https://www.lisn.upsaclay.fr/"
+    },
+    {
+      "url": "https://www.ibisc.univ-evry.fr/",
+      "text": "https://www.ibisc.univ-evry.fr/"
+    },
+    {
+      "url": "https://cedric.cnam.fr/lab/",
+      "text": "https://cedric.cnam.fr/lab/"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/formation/trouver-votre-formation/licence-master-et-doctorat&title=Licence%2C+Master+et+Doctorat",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/formation/trouver-votre-formation/licence-master-et-doctorat&text=Licence%2C+Master+et+Doctorat&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/formation/trouver-votre-formation/licence-master-et-doctorat",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/formation_trouver-votre-formation_licence-master-et-doctorat_c81742e1.txt"
+}

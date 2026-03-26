@@ -1,0 +1,71 @@
+{
+  "url": "http://www.ensiie.fr/form/newsletter",
+  "canonical_url": "https://www.ensiie.fr/form/newsletter",
+  "url_path": "/form/newsletter",
+  "domain": "www.ensiie.fr",
+  "title": "| ENSIIE",
+  "description": "",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [],
+    "h2": [
+      "Fil d'Ariane"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 64,
+  "char_count": 432,
+  "og_title": "| ENSIIE",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:54.251526+00:00",
+  "depth": 10,
+  "parent_url": "http://www.ensiie.fr/",
+  "internal_links": [
+    {
+      "url": "http://www.ensiie.fr/form/newsletter",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "http://www.ensiie.fr/politique-de-confidentialite",
+      "text": "politique de gestion des données personnelles"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/form_newsletter_0e8748bd.txt"
+}

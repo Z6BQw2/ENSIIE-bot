@@ -1,0 +1,234 @@
+Calcul intensif et données massives (HPC/IA)
+
+Chapô
+ 
+Architecture haute performance
+
+Programmation parallèle
+
+Apprentissage statistique
+
+Gestion des flux de données
+
+Simulation
+
+Texte d’introduction
+ 
+Ce parcours est mis en place lors de la deuxième année de formation à l’ENSIIE. Le semestre 3 fournit les compétences nécessaires pour entrer dans le monde des données, de la sciences des données lié à celui du calcul haute performance (HPC) et au développement de méthodes et techniques de programmation massivement parallèle (processeur multi-cœur, processeur graphique, supercalculateur, Cloud Computing). L’objectif du semestre 4 est d’exposer les étudiants aux techniques de programmation haute performance et de parallèlisation massive en utilisant une gamme de bibliothèques de programmation multi-core, multi-thread ou GPU. Le semestre 5 s’articule autour de sujets avancés spécialisés dans la gestion des données massives en particulier l’intelligence informatique pour l’analyse, l’exploration et la visualisation de données, le développement de systèmes intelligents, les méthodes d’apprentissage.
+
+Responsable de la formation
+ 
+
+ Valentin Delis
+
+Email de contact
+ 
+resp-parcours@listes.ensiie.fr
+
+Corps de page
+ 
+
+ 
+
+Texte
+ 
+L'ensIIE 
+deuxième place en 2024 
+au classement Eduniversal des grandes écoles d'ingénieurs spécialisées en intelligence artificielle, Data-Science post-prépa.
+
+ 
+
+Titre
+ 
+Liste des Unites d'enseignement (UE)
+
+Semestre Titre
+ 
+Semestres
+
+ 
+
+Texte
+ 
+S3
+Génie logiciel
+Langage objet avancé
+Architecture d’un système d’exploitation
+Programmation parallèle distribuée
+Assembleur et compilation OU Initiation à la programmation scientifique
+S4
+Méthodes d'apprentissage automatique
+Logiciel cluster
+Parallélisme à base de threads
+Introduction à l’informatique quantique
+Système de fichiers parallèles
+1 OPTION : Ingénierie des plate-formes big data OU Programmation scientifique avancée
+S5
+Green IT & IT for green
+Programmation GPU
+Compilation avancée
+Informatique quantique et recherche opérationnelle
+Performance des systèmes parallèles
+
+ 
+
+Titre
+ 
+Métiers
+
+Texte
+ 
+Administrateur système HPC
+Responsable de la veille stratégique
+Scientifique des données
+Directeur des données
+Analyste de données
+Ingénieur en développement de logiciels scientifiques
+Responsable des données de référence
+Recherche et R&D
+Lead Data Miner
+Ingénieur système HPC
+ 
+
+Titre
+ 
+Exemples de stages
+
+Texte
+ 
+Développement des codes de simulation ESI, CEA, ONERA, CNRS
+Développement de processus et d’outils de compilation Intel, IBM, Nvidia
+Construction de systèmes HPC Atos, IBM, CRAY
+Utilisation de systèmes HPC EDF, Safran, Airbus, Total, L’Oreal, Michelin, Dassault, EADS, Air Liquide
+
+ 
+
+Documents
+ 
+
+ 
+
+Document
+ 
+Fiche Parcours Calcul Hautes Performances et Données massives (HPC)
+ (pdf, 397.36 Ko)
+
+ 
+
+Citation
+ 
+J'ai fait le choix du parcours CIDM car je voulais acquérir des connaissances approfondies à la fois coté infrastructure et coté cloud computing.
+Ce parcours m'a donné les outils pour comprendre de nombreux composants de l'informatique d'aujourd'hui, du système d'exploitation jusqu'au fonctionnement d'un datacenter en passant par des librairies de calcul en parallèle. Ces connaissances valorisées dans les domaines du HPC et du cloud computing m'ont aidé à m'intégrer aisément en entreprise.
+Je travaille maintenant pour Qarnot Computing, un cloud provider écologique qui réutilise la chaleur fatale des serveurs pour chauffer des piscines, bâtiments ou réseaux de chaleur. 
+Mes missions s'inscrivent principalement dans le maintien du fonctionnement de la plateforme de calcul distribuée et le développement de logiciels coté infrastructure.
+
+Nom
+ 
+Charles Anteunis
+
+Promotion
+ 
+Promotion 2021
+
+Cursus
+ 
+Ingénieur Parcours CIDM
+
+Métier
+ 
+Softwares engineer
+
+Photo
+ 
+ 
+
+Citation
+ 
+Après avoir beaucoup hésité entre le parcours CIDM et GL, j'ai finalement choisi le premier car il semblait donner des compétences rares et transverses, allant de l'informatique basniveau à la simulation numérique dans le contexte du calcul intensif.
+Le parcours m'a permis entre autre de mieux comprendre comment un ordinateur ou un cluster de calcul exécutait du code et comment optimiser les performances de tous les processus associés. Ces connaissances m'ont permis de m'adapter rapidement en entreprise.
+Aujourd'hui, je suis ingénieur logiciel chez Qarnot Computing, une startup qui réutilise la chaleur fatale des serveurs informatique pour chauffer des piscines, bâtiments, entrepôts, réseaux de chaleur... Nous fournissons une plateforme cloud adaptée pour des workloads de type HPC (simulations CFD, rendu 3d, ...) et je travaille sur plusieurs sujets dont l'optimisation des performances de notre solution de bureau à distance.
+
+Nom
+ 
+Jérémie Spiesser
+
+Promotion
+ 
+Promotion 2022
+
+Cursus
+ 
+Ingénieur Parcours CIDM
+
+Métier
+ 
+Software engineer
+
+Photo
+ 
+ 
+
+Citation
+ 
+J’ai décidé de suivre la voie CIDM/HPC car j’aimais programmer à un niveau plutôt « bas », l’architecture matérielle des ordinateurs et le côté performance. Je suis aujourd’hui doctorant au CEA et mes travaux portent sur l’optimisation de programmes parallèles. La voie ouvre de nombreuses opportunités, que ce soit dans le domaine de la recherche au CEA, le domaine industriel où les besoins sont grandissants pour l’exploitation de clusters, ou dans le monde des startups.
+ 
+
+Nom
+ 
+Van Man "Vaninou" NGuyen
+
+Promotion
+ 
+Promotion 2017
+
+Citation
+ 
+J'ai intégré l'ensIIE dans le but de faire du calcul bas niveau mais aussi d'avoir l'opportunité de faire du machine learning ou du deep learning. La création de la formation a coïncidé avec mon arrivée et m'a initié au travail sur ordinateur, que ce soit en tant qu'administrateur système (LC, vc, ASE, RIAL) ou data scientist (IPS, PSA) ou développeur (PBT, PP). De plus, le large spectre de la formation permet de s'ouvrir à de nombreux métiers du Big Data ou à des postes DevOps. Aujourd'hui, je suis administrateur système chez Bull Atos au TGCC.
+ 
+ 
+
+Nom
+ 
+Sylvain "Cloud" Maret
+
+Promotion
+ 
+Promotion 2017
+
+1
+2
+3
+4
+
+Partager cette page :
+
+LinkedIn
+
+Twitter
+
+Facebook
+
+Envoyer par mail
+
+ 
+
+Parcours
+ 
+
+Génie logiciel et Sécurité
+ 
+
+ 
+Voir aussi
+
+FAQ
+
+09.03.2026
+
+Webinaire d'info : Master of Science de l'ensIIE
+
+05.03.2026
+
+Ingénieur(e)s de demain 
+
+19.02.2026

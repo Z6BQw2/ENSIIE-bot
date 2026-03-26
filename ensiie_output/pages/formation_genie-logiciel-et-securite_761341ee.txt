@@ -1,0 +1,211 @@
+Génie logiciel et Sécurité
+
+Chapô
+ 
+Architecture logicielle
+
+Techniques de programmation avancées
+
+Méthodes formelles pour la programmation sûre
+
+Sécurité du numérique
+
+Fondements de l'informatique
+
+Texte d’introduction
+ 
+Ce parcours est mis en place dès la deuxième année de formation à l’ENSIIE. Dès le semestre 3, une spécialisation plus accrue en informatique est proposée, comprenant des enseignements fondamentaux (compilation, langages formels, modèles de calcul), une initiation architecture matériels/systèmes, des techniques de programmation avancées (programmation fonctionnelle, programmation à base de threads, middleware, génie logiciel) avec des sous-parcours programmation sûre (validation et vérification de logiciel, méthodes formelles pour le développement de logiciels sûrs, programmation raisonnée) et sécurité du numérique (sécurité réseaux, sécurité des réseaux et des protocoles, sécurité des systèmes d’information, sécurité avancée).
+
+Responsable de la formation
+ 
+
+ Guillaume Burel
+
+Fonction
+ 
+Samovar
+
+Email de contact
+ 
+resp-parcours@listes.ensiie.fr
+
+Corps de page
+ 
+
+ 
+
+Titre
+ 
+Liste des Unites d'enseignement (UE)
+
+Semestre Titre
+ 
+Semestre
+
+ 
+
+Texte
+ 
+S3
+Génie logiciel
+Langage objet avancé
+Langage  formel et vérification du logiciel
+Programmation fonctionnelle avancée
+Assembleur et compilation  OU Recherche opérationnelle
+S4
+Génie logiciel
+Sécurité des réseaux et des protocoles 
+Méthodes formelles pour
+le développement de logiciels sûrs
+Programmation concurrente et vérification
+Intelligence artificielle
+Compléments de recherche opérationnelle OU Architecture matérielle
+Blockchain OU conception des  systèmes d’informations
+S5
+Green IT & IT for green
+Informatique quantique et recherche opérationnelle
+Programmation raisonnée + Sécurité avancée OU Optimisation 1 + Optimisation 2
+Sous-parcours Systèmes sûrs :
+S3 : Assembleur et compilation
+S4 : Architecture matérielle
+S5 : Programmation raisonnée avancée et Sécurité avancée
+Sous-parcours Aspects informatiques de la recherche opérationnelle :
+S3 : Recherche opérationnelle
+S4 : Compléments de recherche opérationnelle
+S5 : Optimisation 1 + Optimisation 2 
+
+ 
+
+Texte
+ 
+Cursus et diplômes
+Bi-cursus
+Diplômes de M2 co-opérés avec l'Université Paris Saclay :
+Master 
+CILS 
+Conception, Intelligence des Logiciels et Systèmes (site d’Évry)
+Master 
+FIIL 
+Fondements de l’informatique et Ingénierie du Logiciel (site d’Orsay)
+Diplômes de M2 en partenariat :
+Master 
+SECRETS 
+Sécurité des contenus, des réseaux, des télécommunications et des systèmes (site de Versailles Saint-Quentin)
+D’autres parcours ou diplômes sont possibles dans des universités à l’étranger.
+ 
+
+ 
+
+Titre
+ 
+Métiers
+
+Texte
+ 
+Ingénieur conception et développement logiciels
+Ingénieur méthodes formelles
+Ingénieur R&D
+Expert en sécurité informatique
+
+Titre
+ 
+Exemples de stages
+
+Texte
+ 
+Modélisation formelle 
+d’enclenchement ferroviaire à l’aide d’un langage formel synchrone
+Maintien en condition de sécurité 
+étude et réalisation d’une solution d’assistance à la veille de sécurité
+Étude, conception et développement 
+d’une solution progicielle
+Contribution à un outil permettant de trouver des bugs 
+dans les logiciels via analyse statique
+Étude, conception et réalisation 
+d’une solution de tests logiciels multiplateformes
+Preuve formelle 
+en analyse fonctionnelle
+
+ 
+
+Documents
+ 
+
+ 
+
+Document
+ 
+Fiche Parcours génie Logiciel
+ (pdf, 254.46 Ko)
+
+ 
+
+Citation
+ 
+Entré à l’ENSIIE avec un DUT informatique, j’ai effectué le tronc commun de l’école durant un an et demi, avant d’effectuer un semestre de spécialisation en sécurité informatique à l’université d’Abertay en Écosse. Ma dernière année a été effectuée en double diplôme en master FIIL.
+
+Nom
+ 
+Guillaume Jicquel
+
+Promotion
+ 
+Promotion 2017
+
+Métier
+ 
+Consultant en Cybersécurité, spécialisé dans le domaine industriel
+
+Citation
+ 
+Le parcours FIIL nous forme à faire preuve de rigueur sur la conception et les tests logiciels pour créer des logiciels plus sûrs quel que soit le domaine d’application.
+
+Nom
+ 
+Amélie Delga
+
+Promotion
+ 
+Promotion 2016
+
+Métier
+ 
+VIE au Japon en Engineering Pricing pour la Société Générale
+
+1
+2
+
+Partager cette page :
+
+LinkedIn
+
+Twitter
+
+Facebook
+
+Envoyer par mail
+
+ 
+
+Parcours
+ 
+
+Calcul intensif et données massives (HPC/IA)
+ 
+Jeux Vidéo et Interactions Numériques
+ 
+
+ 
+Voir aussi
+
+FAQ
+
+09.03.2026
+
+Webinaire d'info : Master of Science de l'ensIIE
+
+05.03.2026
+
+Ingénieur(e)s de demain 
+
+19.02.2026

@@ -1,0 +1,208 @@
+Mathématiques appliquées
+
+Chapô
+ 
+Le programme de Mathématiques Appliquées forme des ingénieurs dotés d’une triple expertise : informatique, probabilités/statistiques, ainsi que leurs applications industrielles et commerciales (finance, assurance, science des données, apprentissage automatique) et recherche opérationnelle.
+
+Texte d’introduction
+ 
+Ce programme de deux ans débute au premier semestre de la deuxième année (S3) avec des cours de mathématiques fondamentales axés sur les applications. La première année du programme s'effectue en double diplôme avec le M1 en Mathématiques Appliquées de l'Université Paris-Saclay. Cette première année prépare les étudiants à une dernière année de spécialisation, souvent en lien avec un programme de M2 universitaire.
+
+Les enseignants du programme viennent à la fois du monde académique et du secteur professionnel pour offrir une formation complète et orientée vers les métiers.
+
+Responsable de la formation
+ 
+
+ Sergio Pulido
+
+Fonction
+ 
+LaMME
+
+Email de contact
+ 
+resp-parcours@listes.ensiie.fr
+
+Corps de page
+ 
+
+ 
+
+Titre
+ 
+Liste des Unites d'enseignement (UE)
+
+Semestre Titre
+ 
+Semestre
+
+ 
+
+Texte
+ 
+S3
+Modèle de régression régularisée
+Analyse de données
+Processus stochastiques
+Recherche opérationnelle
+Programmation avancée et projet
+Optionnel : analyse fonctionnelle
+S4
+Méthodes de Simulation
+Analyse des EDP
+Modélisation Statistique
+Calcul Stochastique
+Compléments de Recherche Opérationnelle + Reconnaissance des formes et biométrie (en option : suivi de projet de recherche)
+ou
+Introduction aux Marchés Financiers + projet de Recherche
+S5
+Modélisation et contrôle stochastique et contrôle Instruments Financiers
+Machine Learning + Modélisation Statistique Avancé + Méthodes Numériques en Finance
+ou
+Informatique quantique et recherche opérationnelle + Optimisation1 + Optimisation 2
+
+ 
+
+Texte
+ 
+Programmes et Diplômes
+Programmes de Double Diplôme de Master
+Licence en Mathématiques, Université d’Évry Val d'Essonne
+Master 1 en Mathématiques Appliquées, Université Paris-Saclay
+Mathématiques Financières / Finance
+Master M2QF en Finance Quantitative
+Master GRA en Gestion des Risques et Actifs
+Science des Données / IA
+Master en Science des Données FISE et FISA pour la Santé, Finance, Assurance
+Master en IA (anciennement AIC) Intelligence Artificielle
+Master en IMSD Innovations, Marchés et Science des Données
+Master en TRIED Traitement de l'Information et Exploitation des Données
+Programmes de Double Diplôme de Master avec d'Autres Universités
+Master en Science des Données (MOSEF, Université Paris 1)
+Master en Recherche Opérationnelle (MPRO, Institut Polytechnique de Paris)
+Double diplôme avec M2QF
+Master en Mathématiques Appliquées/Finance à Munich
+Master en Finance/Économétrie/Statistiques à Bologne
+Master en Finance et Gestion des Risques à Florence
+Double Diplôme
+Master en Mathématiques Appliquées (Polytechnique de Milan)
+Accords Erasmus
+Master en Mathématiques Appliquées/Finance/Science des Données à Florence, Vérone, Turin, Milan
+Autres Masters Partenaires
+Master en Mathématiques et Finance à l’Imperial College, Université Nationale de Singapour, Oxford
+
+ 
+
+Titre
+ 
+Job
+
+Texte
+ 
+Analyste de données
+Gestionnaire des risques
+Ingénieur en recherche opérationnel
+Analyste quantitatif
+Ingénieur financier statisticien
+
+Titre
+ 
+Examples of internships
+
+Texte
+ 
+Assistant en Analyse Quantitative
+Analyste des Risques de Marché
+Chargé d'Études Statistiques et de Fouille de Données
+Apprentissage Automatique (Machine Learning)
+Chargé de Valorisation des Produits Structurés
+
+ 
+
+Documents
+ 
+
+ 
+
+Document
+ 
+ Fiche Parcours Mathématiques Appliquées
+ (pdf, 345.15 Ko)
+
+ 
+
+Citation
+ 
+Cette formation m’a permis de disposer des compétences techniques pour me lancer dans l’entrepreneuriat.
+
+Nom
+ 
+Alexandre Damour
+
+Promotion
+ 
+Promotion 2013
+
+Cursus
+ 
+DOUBLE CURSUS ENSIIE – MASTER M2IF INGÉNIERIE FINANCIÈRE UNIVERSITÉ PARIS-SACLAY
+
+Métier
+ 
+CTO et co-fondateur de QuantCube Technology
+
+Citation
+ 
+Aujourd’hui je suis Ingénieur en Optimisation, en mission dans le département de Recherche Opérationnelle de Air France.
+
+Nom
+ 
+Mehdi Kaci
+
+Promotion
+ 
+Promotion 2017
+
+Cursus
+ 
+DOUBLE CURSUS ENSIIE – MASTER M2IF INGÉNIERIE FINANCIÈRE UNIVERSITÉ PARIS-SACLAY
+
+Métier
+ 
+CTO et co-fondateur de QuantCube Technology
+
+1
+2
+
+Partager cette page :
+
+LinkedIn
+
+Twitter
+
+Facebook
+
+Envoyer par mail
+
+ 
+
+Parcours
+ 
+
+Jeux Vidéo et Interactions Numériques
+ 
+
+ 
+Voir aussi
+
+FAQ
+
+09.03.2026
+
+Webinaire d'info : Master of Science de l'ensIIE
+
+05.03.2026
+
+Ingénieur(e)s de demain 
+
+19.02.2026

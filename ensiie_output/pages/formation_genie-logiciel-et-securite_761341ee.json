@@ -1,0 +1,127 @@
+{
+  "url": "https://www.ensiie.fr/formation/genie-logiciel-et-securite",
+  "canonical_url": "https://www.ensiie.fr/formation/genie-logiciel-et-securite",
+  "url_path": "/formation/genie-logiciel-et-securite",
+  "domain": "www.ensiie.fr",
+  "title": "Génie logiciel et Sécurité | ENSIIE",
+  "description": "Architecture logicielle Techniques de programmation avancées Méthodes formelles pour la programmation sûre Sécurité du numérique Fondements de l'informatique",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Génie logiciel et Sécurité"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "Cursus et diplômes",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain"
+    ],
+    "h3": [
+      "Bi-cursus"
+    ],
+    "h4": [
+      "S3",
+      "S4",
+      "S5",
+      "Sous-parcours Systèmes sûrs :",
+      "Sous-parcours Aspects informatiques de la recherche opérationnelle :",
+      "Diplômes de M2 co-opérés avec l'Université Paris Saclay :",
+      "Diplômes de M2 en partenariat :"
+    ]
+  },
+  "word_count": 580,
+  "char_count": 4442,
+  "og_title": "Génie logiciel et Sécurité",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:16.329530+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/formation/trouver-votre-formation/la-formation-initiale-sous-statut-etudiant-fise",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/formation/genie-logiciel-et-securite",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:resp-parcours@listes.ensiie.fr",
+      "text": "resp-parcours@listes.ensiie.fr"
+    },
+    {
+      "url": "https://www.ensiie.fr/form/brochure?fid=918",
+      "text": "Fiche Parcours génie Logiciel"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : Génie logiciel et Sécurité&body=https://www.ensiie.fr/formation/genie-logiciel-et-securite",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia",
+      "text": "Calcul intensif et données massives (HPC/IA)"
+    },
+    {
+      "url": "https://www.ensiie.fr/formation/jeux-video-et-interactions-numeriques",
+      "text": "Jeux Vidéo et Interactions Numériques"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/formation/genie-logiciel-et-securite&title=G%C3%A9nie+logiciel+et+S%C3%A9curit%C3%A9",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/formation/genie-logiciel-et-securite&text=G%C3%A9nie+logiciel+et+S%C3%A9curit%C3%A9&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/formation/genie-logiciel-et-securite",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/formation_genie-logiciel-et-securite_761341ee.txt"
+}

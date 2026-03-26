@@ -1,0 +1,71 @@
+{
+  "url": "https://www.ensiie.fr/form/brochure?fid=534",
+  "canonical_url": "https://www.ensiie.fr/form/brochure",
+  "url_path": "/form/brochure",
+  "domain": "www.ensiie.fr",
+  "title": "| ENSIIE",
+  "description": "",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [],
+    "h2": [
+      "Fil d'Ariane"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 65,
+  "char_count": 440,
+  "og_title": "| ENSIIE",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:19.333094+00:00",
+  "depth": 3,
+  "parent_url": "https://www.ensiie.fr/formation/jeux-video-et-interactions-numeriques",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/form/brochure?fid=534",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "https://www.ensiie.fr/politique-de-confidentialite",
+      "text": "politique de gestion des données personnelles"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/form_brochure_c13976c5.txt"
+}

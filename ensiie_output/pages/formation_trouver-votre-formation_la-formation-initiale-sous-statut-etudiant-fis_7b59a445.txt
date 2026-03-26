@@ -1,0 +1,200 @@
+La formation initiale sous statut étudiant (FISE)
+
+Chapô
+ 
+Cette formation est sanctionnée par le titre d’Ingénieur dans la spécialité Informatique. Ce diplôme d’Ingénieur est reconnu par la Commission des Titres d’Ingénieur.
+
+Corps de page
+ 
+
+ 
+
+Texte
+ 
+La FISE a pour but de donner aux élèves les connaissances fondamentales, techniques et pratiques nécessaires aux activités d’un ingénieur généraliste en informatique, de développer leurs capacités à conceptualiser et résoudre des problèmes complexes, entreprendre, innover, conduire des projets et diriger des équipes dans un contexte multiculturel et multidisciplinaire.
+Rejoindre la formation initiale sous statut etudiant
+ 
+Téléchargez nos documents
+
+ 
+
+Documents
+ 
+
+ 
+
+Document
+ 
+Brochure des enseignements 2025
+ (pdf, 629.08 Ko)
+
+ 
+
+Document
+ 
+Plaquette institutionnelle
+ (pdf, 2.73 Mo)
+
+ 
+
+Document
+ 
+Contrat de professionnalisation (livret d'information 2025-2026)
+ (pdf, 1.1 Mo)
+
+ 
+
+Document
+ 
+Parcours des formations
+ (pdf, 1.35 Mo)
+
+ 
+
+Texte
+ 
+La formation est pluridisciplinaire et se développe autour de 4 axes :
+Informatique avancée :
+Fondements théoriques, techniques et pratiques de l’informatique
+Mathématiques appliquées :
+Probabilités, statistique, optimisation, mathématiques financières
+Gestion des entreprises :
+Économie, gestion, création d’entreprises, conduite de projet, finance
+Entrepreneuriat
+ 
+La formation d'ingénieur ensIIE, c'est :
+Une scolarité sur 6 semestres
+La scolarité se déroule sur trois ans à temps plein. Elle est découpée en six semestres. Les enseignements sont organisés en Unité d’Enseignements (UE), constituées de un ou plusieurs modules, et abordant un champ thématique spécifique. Les deux premiers semestres de la formation sont entièrement composés d’UEs qui constituent le tronc commun de la formation d'ingénieurs de l'ENSIIE. Ils visent à fixer des bases théoriques et scientifiques fortes sur lesquelles les élèves pourront s’appuyer pour développer leur formation d’ingénieur et construire leur projet. Les élèves y acquièrent les concepts fondamentaux en mathématiques et informatique. Ils sont également initiés à l’économie, la gestion et au droit.
+Des parcours optionnels
+Les parcours apparaissent à partir de la deuxième année et correspondent aux domaines d’excellence de l’école. Ils permettent aux élèves ingénieurs de construire leur formation en fonction de leurs intérêts et de leurs objectifs professionnels. 5 parcours sont ainsi accessibles, qui donnent accès à 12 masters en bi-cursus en 3ème année. Les élèves ingénieurs peuvent aussi se constituer un parcours, en sélectionnant leurs enseignements techniques.
+Parcours Mathématiques Appliquées
+Le parcours de mathématiques appliquées forme des ingénieurs avec une triple compétence : informatique, 
+probabilités/statistiques
+, avec leurs applications industrielles et commerciales (finance, assurance, 
+science des données
+, 
+intelligence artificielle
+, 
+machine learning
+), et 
+recherche opérationnelle.
+Parcours Ingénierie Logiciel
+le
+Ce parcours propose ne spécialisation plus accrue en informatique, comprenant des enseignements fondamentaux (compilation, langages formels, modèles de calcul), une initiation 
+architecture matériels/systèmes
+, des techniques de 
+programmation avancées
+ (programmation fonctionnelle, programmation à base de threads, middleware, génie logiciel) avec des sous-parcours programmation sûre (validation et vérification de logiciel, méthodes formelles pour le développement de logiciels sûrs, programmation raisonnée) et 
+sécurité du numérique
+ (sécurité réseaux, sécurité des réseaux et des protocoles, sécurité des systèmes d’information, sécurité avancée).
+Parcours Interactions Numériques
+Former des ingénieurs aux compétences requises pour concevoir, réaliser, améliorer et évaluer des 
+systèmes humains-machines
+ interactifs et temps réel et/ou ayant une forte dimension image
+Jeux vidéo
+Interactions humains-machines
+Réalité Virtuelle et Augmentée
+Systèmes Intelligents
+Parcours Calcul intensif et données massives
+Ce parcours est mis en place lors de la deuxième année de formation à l’ensIIE. Le semestre 3 fournit les compétences nécessaires pour entrer dans le monde des données, de la sciences des données lié à celui du 
+calcul haute performance (HPC)
+ et au développement de méthodes et techniques de 
+programmation massivement parallèle
+ (processeur multi-coeur, processeur graphique, supercalculateur, Cloud Computing). 
+L’objectif du semestre 4 est d’exposer les étudiants aux techniques de programmation haute performance et de parallèlisation massive en utilisant une gamme de bibliothèques de 
+programmation multi-core
+, 
+multi-thread
+ ou GPU. 
+Le semestre 5 s’articule autour de sujets avancés spécialisés dans la gestion des données massives en particulier l’intelligence informatique pour l’analyse, l’exploration et la visualisation de données, le développement de systèmes de nuages, les méthodes d’apprentissage.
+Des stages
+Trois stages complètent la formation en préparant les élèves ingénieurs à leur insertion dans le monde de l’entreprise : 
+En fin de première année, un stage de 8 semaines orienté programmation ; mais il peut aussi revêtir un caractère humanitaire.
+En fin de deuxième année, un stage de 10 semaines orienté vers l’analyse et la conception.
+En fin de troisième année, un projet d’ingénieur est réalisé lors d’un stage de 6 mois.
+Ces stages peuvent s’effectuer soit en entreprise soit en laboratoire de recherche aussi bien en France qu’à l’étranger.
+Les deux premières années à l’ensIIE (S1, S2, S3 et S4)
+4 semestres à IMT-BS (S3, S4, S5, S6), dont 1 semestre à l’international et 1 semestre en entreprise, dans le cadre d’un stage de fin d’étude ensIIE/IMT-BS.
+
+ 
+
+Titre
+ 
+APPRENTISSAGE DES LANGUES
+
+Texte
+ 
+- allemand
+
+- anglais
+
+- chinois débutant 
+
+- espagnol 
+
+- français B1-B2
+
+- italien 
+
+- japonais débutant 
+
+- russe 
+
+ 
+
+Texte
+ 
+Des formations parallèles ou des double-diplômes en mobilités :
+Mobilité internationale
+Un des établissements partenaires
+.
+Mobilité nationale
+Licence de mathématiques de l’université d’Evry Paris-Saclay
+Masters co-opérés de l’école
+. /  M1 de mathématiques appliquées
+Parcours spécifiques :
+- Jeux Vidéos et Intéractions Numériques. (ensIIE/
+Télécom SudParis
+) 
+- Ingénieur Manager : Double cursus ingénieur ensIIE / 
+Institut Mines Télécom Business School
+. 
+Ce cursus en 4 ans permet d’obtenir deux diplômes : diplôme d’ingénieur de l’ensIIE et diplôme  du programme de l’Institut Mines Télécom Business School.
+Il est accessible aux élèves ingénieurs de l’ensIIE, de Télécom SudParis  et aux élèves managers de l’Institut Mines Télécom Business School.
+Rythme de formation
+ 
+
+ 
+
+Titre
+ 
+Vous souhaitez obtenir plus de renseignements sur la formation initiale sous statut étudiant ?
+
+Lien
+ 
+Contactez-nous
+
+Partager cette page :
+
+LinkedIn
+
+Twitter
+
+Facebook
+
+Envoyer par mail
+
+ 
+Voir aussi
+
+FAQ
+
+09.03.2026
+
+Webinaire d'info : Master of Science de l'ensIIE
+
+05.03.2026
+
+Ingénieur(e)s de demain 
+
+19.02.2026

@@ -1,0 +1,79 @@
+{
+  "url": "https://www.ensiie.fr/formation/concours-et-admission",
+  "canonical_url": "https://www.ensiie.fr/formation/concours-et-admission",
+  "url_path": "/formation/concours-et-admission",
+  "domain": "www.ensiie.fr",
+  "title": "Concours et admission | ENSIIE",
+  "description": "Modalités pour intégrer l'école",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Concours et admission"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "Concours MINES-TELECOM",
+      "Admissions sur Titres"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 138,
+  "char_count": 917,
+  "og_title": "Concours et admission",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:05.714313+00:00",
+  "depth": 1,
+  "parent_url": "https://www.ensiie.fr/",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/formation/concours-et-admission",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "https://www.ensiie.fr/formation/concours-et-admission/concours-mines-telecom",
+      "text": "Découvrir"
+    },
+    {
+      "url": "https://www.ensiie.fr/admissions-sur-titres",
+      "text": "Découvrir"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/formation_concours-et-admission_1aaf82b0.txt"
+}

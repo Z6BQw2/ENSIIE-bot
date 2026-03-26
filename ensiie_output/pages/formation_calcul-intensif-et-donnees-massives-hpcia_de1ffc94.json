@@ -1,0 +1,127 @@
+{
+  "url": "https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia",
+  "canonical_url": "https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia",
+  "url_path": "/formation/calcul-intensif-et-donnees-massives-hpcia",
+  "domain": "www.ensiie.fr",
+  "title": "Calcul intensif et données massives (HPC/IA) | ENSIIE",
+  "description": "Architecture haute performance Programmation parallèle Apprentissage statistique Gestion des flux de données Simulation",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Calcul intensif et données massives (HPC/IA)"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain"
+    ],
+    "h3": [],
+    "h4": [
+      "S3",
+      "S4",
+      "S5"
+    ]
+  },
+  "word_count": 872,
+  "char_count": 6306,
+  "og_title": "Calcul intensif et données massives (HPC/IA)",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:15.163920+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/formation/trouver-votre-formation/la-formation-initiale-sous-statut-etudiant-fise",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:resp-parcours@listes.ensiie.fr",
+      "text": "resp-parcours@listes.ensiie.fr"
+    },
+    {
+      "url": "https://www.ensiie.fr/form/brochure?fid=920",
+      "text": "Fiche Parcours Calcul Hautes Performances et Données massives (HPC)"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : Calcul intensif et données massives (HPC/IA)&body=https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "https://www.ensiie.fr/formation/genie-logiciel-et-securite",
+      "text": "Génie logiciel et Sécurité"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia&title=Calcul+intensif+et+donn%C3%A9es+massives+%28HPC%2FIA%29",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia&text=Calcul+intensif+et+donn%C3%A9es+massives+%28HPC%2FIA%29&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/formation/calcul-intensif-et-donnees-massives-hpcia",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/styles/360x360/public/images/IMG_9848.jpeg.webp?itok=xIJZcmOO",
+      "alt": "Photo Charles Anteunis",
+      "title": "Photo Charles Anteunis"
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/styles/360x360/public/images/jeremie_spiesser.jpeg.webp?itok=_NixA5X8",
+      "alt": "Photo Jérémie Spiesser",
+      "title": "Photo Jérémie Spiesser"
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/formation_calcul-intensif-et-donnees-massives-hpcia_de1ffc94.txt"
+}

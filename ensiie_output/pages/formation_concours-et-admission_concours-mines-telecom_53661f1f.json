@@ -1,0 +1,131 @@
+{
+  "url": "https://www.ensiie.fr/formation/concours-et-admission/concours-mines-telecom",
+  "canonical_url": "https://www.ensiie.fr/formation/concours-et-admission/concours-mines-telecom",
+  "url_path": "/formation/concours-et-admission/concours-mines-telecom",
+  "domain": "www.ensiie.fr",
+  "title": "Concours MINES-TELECOM | ENSIIE",
+  "description": "Depuis la session 2016, l’ensIIE recrute par le biais du concours Mines-Télécom. Les élèves des filières MP, MPI, PC, PSI et TSI souhaitant intégrer l’ensIIE doivent obligatoirement passer ce concours. Les élèves des autres filières peuvent déposer un dossier de candidature sur titre.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Concours MINES-TELECOM"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "Places offertes pour la session 2025",
+      "Le concours",
+      "",
+      "Intégration",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain"
+    ],
+    "h3": [],
+    "h4": [
+      "La liste des vœux doit être déposée en suivant les consignes indiquées",
+      "ici",
+      "Les propositions d’intégration seront disponibles sur le",
+      "site internet du service concours",
+      "Pour toutes informations complémentaires contacter :",
+      "concours@ensiie.fr"
+    ]
+  },
+  "word_count": 298,
+  "char_count": 2056,
+  "og_title": "Concours MINES-TELECOM",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:08.671817+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/formation/concours-et-admission",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/formation/concours-et-admission/concours-mines-telecom",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:concours@ensiie.fr",
+      "text": "concours@ensiie.fr"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.calameo.com/read/0053254304882589d7185",
+      "text": "notice du Concours Mines-Telecom"
+    },
+    {
+      "url": "http://www.concours-mines-telecom.fr/",
+      "text": "site du concours"
+    },
+    {
+      "url": "http://scei-concours.fr/integration.php",
+      "text": "ici"
+    },
+    {
+      "url": "https://www.scei-concours.fr/calendrier.php",
+      "text": "site internet du service concours"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/Tableau_orientation_ENSIIE.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/images/21-AMPHITD_ccFOCUSKPTURE-GPS2023.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/frise-admissions_CMT.jpg",
+      "alt": "frise concours",
+      "title": ""
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/formation_concours-et-admission_concours-mines-telecom_53661f1f.txt"
+}
