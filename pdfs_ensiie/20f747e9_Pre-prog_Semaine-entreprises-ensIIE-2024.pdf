@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="Une grande école publique qui forme depuis plus de 57 ans des ingénieur(e)s de haut niveau en Système d’information décisionnel, Mathématiques appliquées, Informatique avancée et technologies émergentes, comme l&#039;IA, Data Sciences, Calcul haute performance, Réalité augmentée/virtuelle, Jeux vidéo, Cybersécurité, Quantique, avec un fort accent sur le DD&amp;RS, la gestion des entreprises et l&#039;esprit entrepreneurial. Une école d&#039;excellence portée par les enjeux liés à la souveraineté numérique et la sobriété." />
+<link rel="canonical" href="https://www.ensiie.fr/" />
+<meta name="robots" content="index, follow" />
+<link rel="shortlink" href="https://www.ensiie.fr/" />
+<link rel="image_src" href="/sites/default/files/images/fond.png" />
+<meta property="og:site_name" content="ENSIIE" />
+<meta property="og:url" content="https://www.ensiie.fr/node/1" />
+<meta property="og:title" content="L&#039;école Nationale Supérieure d&#039;Informatique pour l&#039;Industrie et l&#039;Entreprise | ENSIIE" />
+<meta property="og:image" content="https://www.ensiie.fr/sites/default/files/images/fond.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="ENSIIE" />
+<meta name="twitter:description" content="Une grande école publique qui forme depuis plus de 57 ans des ingénieur(e)s de haut niveau en Système d’information décisionnel, Mathématiques appliquées, Informatique avancée et technologies émergentes, comme l&#039;IA, Data Sciences, Calcul haute performance, Réalité augmentée/virtuelle, Jeux vidéo, Cybersécurité, Quantique, avec un fort accent sur le DD&amp;RS, la gestion des entreprises et l&#039;esprit entrepreneurial. Une école d&#039;excellence portée par les enjeux liés à la souveraineté numérique et la sobriété." />
+<meta name="twitter:image" content="https://www.ensiie.fr/sites/default/files/images/fond.png" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "EducationalOrganization",
+            "additionalType": "CollegeOrUniversity",
+            "name": "ENSIIE",
+            "url": "https://www.ensiie.fr/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.ensiie.fr/themes/custom/ensiie/logo.svg"
+            }
+        },
+        {
+            "@type": "WebPage",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Accueil",
+                        "item": "https://www.ensiie.fr/node/1"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "WebSite",
+            "name": "ENSIIE",
+            "url": "https://www.ensiie.fr/"
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/favicon_blanc.png" type="image/png" />
+<link rel="alternate" hreflang="fr" href="https://www.ensiie.fr/" />
+<link rel="alternate" hreflang="en" href="https://www.ensiie.fr/en" />
+<link rel="alternate" hreflang="es" href="https://www.ensiie.fr/es" />
+<link rel="alternate" hreflang="de" href="https://www.ensiie.fr/de" />
+
+    <title>L&#039;école Nationale Supérieure d&#039;Informatique pour l&#039;Industrie et l&#039;Entreprise | ENSIIE</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_rxd1MFLap-qR0FKOpG6lTEzO1y4S9GhVd67dyAy5TAI.css?delta=0&amp;language=fr&amp;theme=ensiie&amp;include=eJxFzOEOwiAMBOAXQnimAg3r7Chpi2Z7eqNu-udy-ZK7zHDsiQUq9RaKKKaqcwDHSsByUhfdgOnAgN2IMDWWDHwz3_m9O3Uodf_hAIWmMBa7Lv8SZx8zM9mCNRhTuacMhsF2c9y-3aGslhzUEWYhV-lxtfAgfFr6ZNykTsYXOSVMMQ" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Iar6mMY3c4_921wKCgFXT4leWL0b_lTATOhRdtubthY.css?delta=1&amp;language=fr&amp;theme=ensiie&amp;include=eJxFzOEOwiAMBOAXQnimAg3r7Chpi2Z7eqNu-udy-ZK7zHDsiQUq9RaKKKaqcwDHSsByUhfdgOnAgN2IMDWWDHwz3_m9O3Uodf_hAIWmMBa7Lv8SZx8zM9mCNRhTuacMhsF2c9y-3aGslhzUEWYhV-lxtfAgfFr6ZNykTsYXOSVMMQ" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_TyPJmwROOp1KudWgaBlG148X2L8OIkBs8LkIlAVtr1E.css?delta=2&amp;language=fr&amp;theme=ensiie&amp;include=eJxFzOEOwiAMBOAXQnimAg3r7Chpi2Z7eqNu-udy-ZK7zHDsiQUq9RaKKKaqcwDHSsByUhfdgOnAgN2IMDWWDHwz3_m9O3Uodf_hAIWmMBa7Lv8SZx8zM9mCNRhTuacMhsF2c9y-3aGslhzUEWYhV-lxtfAgfFr6ZNykTsYXOSVMMQ" />
+
+    
+    <link rel="stylesheet" href="https://use.typekit.net/evx0qif.css">
+  </head>
+  <body class="path-frontpage page-node-type-home">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Aller au contenu principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+    <header role="banner" class="site-header">
+      <div class="region region-header">
+    <div id="block-ensiie-ensiieheader" class="block block-ensiie-main block-block-ensiie-header">
+  
+    
+      <div class='desktop'>
+  <div class="ensiie-header">
+    <div class="header-right">
+      <div class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo" title="logo">
+      <img src="/sites/default/files/ensiie_logo_fx_RVB_0.png" class='light-mode-logo' alt="Accueil" title="Accueil"  />
+      <img src="/themes/custom/ensiie/logo-dark-mode.svg" class='dark-mode-logo' alt="Accueil mode sombre" title="Home dark" />
+    </a>
+      </div>
+
+    </div>  
+    <div class="header-left">
+        <div class="header-top">
+          <div class="header-vous-etes">
+            
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/candidat" title="Candidat" data-drupal-link-system-path="node/526">Candidat</a>
+              </li>
+                <li class="menu-item">
+        <a href="/apprenant" title="Apprenant" data-drupal-link-system-path="node/527">Apprenant</a>
+              </li>
+                <li class="menu-item">
+        <a href="/recherche-innovation" title="Enseignant" data-drupal-link-system-path="node/495">Enseignant</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lecole/alumni" title="Alumni" data-drupal-link-system-path="node/492">Alumni</a>
+              </li>
+                <li class="menu-item">
+        <a href="/professionnel" title="Professionnel" data-drupal-link-system-path="node/531">Professionnel</a>
+              </li>
+                <li class="menu-item">
+        <a href="/recrutement" title="En recherche d&#039;emploi" data-drupal-link-system-path="node/532">En recherche d&#039;emploi</a>
+              </li>
+        </ul>
+  
+
+
+            <div class="open-vous-etes" tabindex=0>Vous êtes ?</div>
+          </div>
+          <div class="field field--name-field-contact field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Contact</div>        <div class="field__item"><a href="/contact" title="Contact">Contact</a></div>
+    </div>
+
+          <div class='recherche'>
+            <a href="/ensiie_main/modal_form/search/eyJ0aXRsZSI6IlJlY2hlcmNoZXIgc3VyIGxlIHNpdGUifQ%3D%3D" title="Rechercher" class="use-ajax">Rechercher</a>
+          </div>
+          <div class="dark-mode" tabindex=0></div>
+                    <div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page"><a href="/" class="language-link is-active" title="fr" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">fr</a></li><li hreflang="en" data-drupal-link-system-path="&lt;front&gt;"><a href="/en" class="language-link" title="en" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">en</a></li><li hreflang="es" data-drupal-link-system-path="&lt;front&gt;"><a href="/es" class="language-link" title="es" hreflang="es" data-drupal-link-system-path="&lt;front&gt;">es</a></li><li hreflang="de" data-drupal-link-system-path="&lt;front&gt;"><a href="/de" class="language-link" title="de" hreflang="de" data-drupal-link-system-path="&lt;front&gt;">de</a></li></ul>
+  </div>
+
+                  </div>
+        <div class="header-bottom">
+          
+            <div class="menu-wrapper">
+      <ul class="menu">
+                    
+      <li class="menu-item menu-item--collapsed">
+                <a href="/lecole" title="Ecole" data-drupal-link-system-path="node/486"><span>L&#039;École</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/recherche-innovation" title="Recherche &amp; innovation" data-drupal-link-system-path="node/495"><span>Recherche &amp; innovation</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/formation" title="Formation" data-drupal-link-system-path="node/499"><span>Formation</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/international" title="International" data-drupal-link-system-path="node/512"><span>International</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/entreprise" title="Entreprise" data-drupal-link-system-path="node/517"><span>Entreprise</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/vie-etudiante" title="Vie étudiante" data-drupal-link-system-path="node/518"><span>Vie étudiante</span></a>
+              </li>
+      
+        </ul>
+    </div>
+  
+
+
+
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class='mobile'>
+  <div class="ensiie-header">
+    <div class='menu-top'>
+      <div class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo" title="logo">
+      <img src="/sites/default/files/ensiie_logo_fx_RVB_0.png" class='light-mode-logo' alt="Accueil" title="Accueil"  />
+      <img src="/themes/custom/ensiie/logo-dark-mode.svg" class='dark-mode-logo' alt="Accueil mode sombre" title="Home dark" />
+    </a>
+      </div>
+ 
+      <div class='open-close-block'>
+        <span>Menu</span>
+        <div class='open-close'>
+          <img class='burger' src='/themes/custom/ensiie/images/burger.svg' alt="burger-open" />
+          <img class='close' src='/themes/custom/ensiie/images/burger-close.svg' alt="burger-open"/>
+        </div>
+      </div>
+    </div>
+    <div class='slide-down'>
+      <div class='first-menu'>
+        <div class='recherche'>
+          <a href="/ensiie_main/modal_form/search/eyJ0aXRsZSI6IlJlY2hlcmNoZXIgc3VyIGxlIHNpdGUifQ%3D%3D" title="Rechercher" class="use-ajax">Rechercher</a>
+        </div>
+        <div class="dark-mode"></div>
+                <div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page"><a href="/" class="language-link is-active" title="fr" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">fr</a></li><li hreflang="en" data-drupal-link-system-path="&lt;front&gt;"><a href="/en" class="language-link" title="en" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">en</a></li><li hreflang="es" data-drupal-link-system-path="&lt;front&gt;"><a href="/es" class="language-link" title="es" hreflang="es" data-drupal-link-system-path="&lt;front&gt;">es</a></li><li hreflang="de" data-drupal-link-system-path="&lt;front&gt;"><a href="/de" class="language-link" title="de" hreflang="de" data-drupal-link-system-path="&lt;front&gt;">de</a></li></ul>
+  </div>
+
+              </div>
+      <div class="second-menu">
+        
+            <div class="menu-wrapper">
+      <ul class="menu">
+                    
+      <li class="menu-item menu-item--collapsed">
+                <a href="/lecole" title="Ecole" data-drupal-link-system-path="node/486"><span>L&#039;École</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/recherche-innovation" title="Recherche &amp; innovation" data-drupal-link-system-path="node/495"><span>Recherche &amp; innovation</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/formation" title="Formation" data-drupal-link-system-path="node/499"><span>Formation</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/international" title="International" data-drupal-link-system-path="node/512"><span>International</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/entreprise" title="Entreprise" data-drupal-link-system-path="node/517"><span>Entreprise</span></a>
+              </li>
+      
+                
+      <li class="menu-item menu-item--collapsed">
+                <a href="/vie-etudiante" title="Vie étudiante" data-drupal-link-system-path="node/518"><span>Vie étudiante</span></a>
+              </li>
+      
+        </ul>
+    </div>
+  
+
+
+
+      </div>
+      <div class="header-vous-etes">
+        <div class="open-vous-etes" tabindex=0>Vous êtes ?</div>
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/candidat" title="Candidat" data-drupal-link-system-path="node/526">Candidat</a>
+              </li>
+                <li class="menu-item">
+        <a href="/apprenant" title="Apprenant" data-drupal-link-system-path="node/527">Apprenant</a>
+              </li>
+                <li class="menu-item">
+        <a href="/recherche-innovation" title="Enseignant" data-drupal-link-system-path="node/495">Enseignant</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lecole/alumni" title="Alumni" data-drupal-link-system-path="node/492">Alumni</a>
+              </li>
+                <li class="menu-item">
+        <a href="/professionnel" title="Professionnel" data-drupal-link-system-path="node/531">Professionnel</a>
+              </li>
+                <li class="menu-item">
+        <a href="/recrutement" title="En recherche d&#039;emploi" data-drupal-link-system-path="node/532">En recherche d&#039;emploi</a>
+              </li>
+        </ul>
+  
+
+
+      </div>
+      <div class="field field--name-field-contact field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Contact</div>        <div class="field__item"><a href="/contact" title="Contact">Contact</a></div>
+    </div>
+
+
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+  </header>
+    
+  <section role="navigation">
+    
+  </section>
+
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+      <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+    
+    <div class="layout-content">
+    <div class='sidebar'><div class='content'></div></div>
+        <div class="region region-content">
+    <div id="block-ensiie-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="node node--type-home node--view-mode-full ds-1col clearfix">
+
+  
+
+  
+<div  class="flash-info">
+    <div class="close" tabindex="0">Masquer</div><div class="clearfix text-formatted field field--name-field-cke-unik-1 field--type-text-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Texte du bandeau</div>        <div class="field__item"><p>Journée portes Ouvertes 2026&nbsp;</p></div>
+    </div>
+<div class="field field--name-field-link-unik-1 field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Bouton</div>        <div class="field__item"><a href="/ecole/actualites-et-evenements/journee-portes-ouvertes-2026" title="En savoir plus">En savoir plus</a></div>
+    </div>
+
+  </div>
+<div  class="introduction">
+    <div class="field field--name-node-title field--type-ds field--label-hidden">
+          <div class="field__item"><h1>
+  L&#039;école Nationale Supérieure d&#039;Informatique pour l&#039;Industrie et l&#039;Entreprise
+</h1>
+</div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Texte d’introduction</div>        <div class="field__item">Une grande école publique qui forme depuis plus de 57 ans des ingénieur(e)s de haut niveau en Système d’information décisionnel, Mathématiques appliquées, Informatique avancée et technologies émergentes, comme l&#039;IA, Data Sciences, Calcul haute performance, Réalité augmentée/virtuelle, Jeux vidéo, Cybersécurité, Quantique, avec un fort accent sur le DD&amp;RS, la gestion des entreprises et l&#039;esprit entrepreneurial.<br />
+Une école d&#039;excellence portée par les enjeux liés à la souveraineté numérique et la sobriété.<br />
+</div>
+    </div>
+<div class="field field--name-field-liens field--type-entity-reference-revisions field--label-visually_hidden">
+  <div class="field__label visually-hidden">Boutons</div>      <div class="field__items">
+        <div class="field__item">  <div class="paragraph paragraph--type--lien paragraph--view-mode--default">
+          <div class="field field--name-field-link-1 field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien</div>        <div class="field__item"><a href="/formation/trouver-votre-formation/la-formation-initiale-sous-statut-etudiant-fise" title="Découvrir notre formation ingénieur"><h3>Découvrir notre formation ingénieur</h3></a></div>
+    </div>
+
+      </div>
+</div>
+      <div class="field__item">  <div class="paragraph paragraph--type--lien paragraph--view-mode--default">
+          <div class="field field--name-field-link-1 field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien</div>        <div class="field__item"><a href="/formation/concours-et-admission" title="Connaitre les conditions d&#039;inscription"><h3>Connaitre les conditions d'inscription</h3></a></div>
+    </div>
+
+      </div>
+</div>
+      <div class="field__item">  <div class="paragraph paragraph--type--lien paragraph--view-mode--default">
+          <div class="field field--name-field-link-1 field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien</div>        <div class="field__item"><a href="/international/mobilite-internationale" title="Etudier à l&#039;étranger"><h3>Etudier à l'étranger</h3></a></div>
+    </div>
+
+      </div>
+</div>
+        </div>
+  </div>
+
+  </div>
+<div  class="chiffres-cles">
+    <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Image de fond desktop</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/images/fond.png" width="1679" height="352" alt="Chiffre clés" title="Chiffre clés" />
+
+</div>
+    </div>
+<div class="field field--name-field-image-mob field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Image de fond mobile</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/w_x_604/public/images/IM.png.webp?itok=et1wATej" width="500" height="880" alt="Chiffre clés" title="Chiffre clés" class="image-style-w-x-604" />
+
+
+</div>
+    </div>
+<div class="field field--name-field-para-multi-3 field--type-entity-reference-revisions field--label-visually_hidden">
+  <div class="field__label visually-hidden">Chiffres clés</div>      <div class="field__items">
+        <div class="field__item">  <div class="paragraph paragraph--type--chiffres-cle paragraph--view-mode--default">
+          
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Chiffre</div>        <div class="field__item">44</div>
+    </div>
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Précision</div>        <div class="field__item">K€</div>
+    </div>
+
+  </div><div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Légende</div>        <div class="field__item">de salaire à l&#039;embauche</div>
+    </div>
+
+      </div>
+</div>
+      <div class="field__item">  <div class="paragraph paragraph--type--chiffres-cle paragraph--view-mode--default">
+          
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Chiffre</div>        <div class="field__item">92</div>
+    </div>
+
+  </div><div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Légende</div>        <div class="field__item">entreprises partenaires</div>
+    </div>
+
+      </div>
+</div>
+      <div class="field__item">  <div class="paragraph paragraph--type--chiffres-cle paragraph--view-mode--default">
+          
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Chiffre</div>        <div class="field__item">80</div>
+    </div>
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Précision</div>        <div class="field__item">%</div>
+    </div>
+
+  </div><div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Légende</div>        <div class="field__item">de diplômés embauchés au bout de trois mois</div>
+    </div>
+
+      </div>
+</div>
+        </div>
+  </div>
+
+  </div>
+<div  class="domaines">
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Titre</div>        <div class="field__item"><h2>Nos domaines d&#039;expertise</h2></div>
+    </div>
+<div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Sous Titre</div>        <div class="field__item">Des enseignements pluridisciplinaires qui ouvriront toutes les portes aux ingénieur(e)s de demain</div>
+    </div>
+<div class="field field--name-field-para-multi-4 field--type-entity-reference-revisions field--label-visually_hidden">
+  <div class="field__label visually-hidden">Domaines</div>      <div class="field__items">
+        <div class="field__item">  <div class="paragraph paragraph--type--domaine paragraph--view-mode--default">
+          <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Titre</div>        <div class="field__item"><h3>Informatique</h3></div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Description</div>        <div class="field__item"><h4>Fondements théoriques, techniques et pratiques de l&#039;informatique avancée</h4></div>
+    </div>
+
+      </div>
+</div>
+      <div class="field__item">  <div class="paragraph paragraph--type--domaine paragraph--view-mode--default">
+          <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Titre</div>        <div class="field__item"><h3>Mathématiques appliquées</h3></div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Description</div>        <div class="field__item"><h4>Probabilités, statistique, optimisation, mathématiques financières</h4></div>
+    </div>
+
+      </div>
+</div>
+      <div class="field__item">  <div class="paragraph paragraph--type--domaine paragraph--view-mode--default">
+          <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Titre</div>        <div class="field__item"><h3>Gestion des entreprises</h3></div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Description</div>        <div class="field__item"><h4>Économie, gestion de projet, droit des sociétés, protection des données personnelles...</h4></div>
+    </div>
+
+      </div>
+</div>
+      <div class="field__item">  <div class="paragraph paragraph--type--domaine paragraph--view-mode--default">
+          <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Titre</div>        <div class="field__item"><h3>Entrepreneuriat &amp; Leadership</h3></div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Description</div>        <div class="field__item"><h4>Communication, créativité et innovation, statuts des entreprises, étude de marché, business model/plan, aides et subventions...</h4></div>
+    </div>
+
+      </div>
+</div>
+        </div>
+  </div>
+
+  </div>
+<div  class="temoignages">
+    <div class="slick blazy slick--field slick--field-para-temoignage slick--field-para-temoignage--full slick--optionset--default" data-blazy=""><div id="slick-38a06ec6ff2" data-slick="{&quot;count&quot;:5,&quot;total&quot;:5,&quot;dots&quot;:true,&quot;arrows&quot;:false,&quot;infinite&quot;:false,&quot;lazyLoad&quot;:&quot;blazy&quot;}" class="slick__slider">  <div class="slick__slide slide slide--0"><div class="paragraph paragraph--type-temoignage paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  
+<div >
+    <div class="clearfix text-formatted field field--name-field-cke-unik-1 field--type-text-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Citation</div>        <div class="field__item"><blockquote><p class="bleu">Evoluant aujourd’hui à New York en tant que Data Scientist, je suis extrêmement reconnaissante envers l’ensIIE qui m’a permis ce parcours de rêve! Le curriculum diversifié, les opportunités de mobilité, la flexibilité de l’école et le réseau alumni ont largement contribués à ma position actuelle, que j’apprécie particulièrement.</p></blockquote></div>
+    </div>
+
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Nom</div>        <div class="field__item">Julie Pronier</div>
+    </div>
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Promotion</div>        <div class="field__item">Promotion 2023</div>
+    </div>
+<div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Cursus</div>        <div class="field__item">Double Cursus - Master in Business Intelligence and Analytics </div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Métier</div>        <div class="field__item">Data Science and AI au Stevens Institute of Technology<br />
+Data Scientist at Hydronos Labs </div>
+    </div>
+
+  </div>
+  </div><div class="field field--name-field-img-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Photo</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/360x360/public/images/JPronier2.JPG.webp?itok=9UwhXmJN" width="360" height="360" alt="photo Julie Pronier" title="photo Julie Pronier" class="image-style-_60x360" />
+
+
+</div>
+    </div>
+
+
+</div>
+
+</div>
+  <div class="slick__slide slide slide--1"><div class="paragraph paragraph--type-temoignage paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  
+<div >
+    <div class="clearfix text-formatted field field--name-field-cke-unik-1 field--type-text-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Citation</div>        <div class="field__item"><blockquote><p class="bleu">J’ai apprécié pouvoir ne pas me spécialiser, en choisissant plutôt de découvrir de nombreux domaines de l’informatique (développement, sécurité, réalité virtuelle et jeu vidéo, intelligence artificielle, etc.). Cela me permet aujourd’hui d’avoir une culture informatique large.</p></blockquote><p><a class="btn" href="https://www.ensiie.fr/temoignage-anthony-barbier-suite">(suite)&nbsp;</a></p></div>
+    </div>
+
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Nom</div>        <div class="field__item">Anthony Barbier</div>
+    </div>
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Promotion</div>        <div class="field__item">Promotion 2019</div>
+    </div>
+<div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Cursus</div>        <div class="field__item">Ingénieur ensIIE</div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Métier</div>        <div class="field__item">Ingénieur territorial au Conseil départemental de l’Essonne.</div>
+    </div>
+
+  </div>
+  </div><div class="field field--name-field-img-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Photo</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/360x360/public/images/anthony_barbier.png.webp?itok=bS9rr8yl" width="360" height="360" alt="photo Anthony Barbier" title="photo Anthony Barbier" class="image-style-_60x360" />
+
+
+</div>
+    </div>
+
+
+</div>
+
+</div>
+  <div class="slick__slide slide slide--2"><div class="paragraph paragraph--type-temoignage paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  
+<div >
+    <div class="clearfix text-formatted field field--name-field-cke-unik-1 field--type-text-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Citation</div>        <div class="field__item"><blockquote><p class="bleu">Plus que tout, ce qui m’a marqué à l’ensIIE est la communauté des élèves soudée, centrée autour d’une pléthore d’associations variées. J’ai particulièrement apprécié de pouvoir développer mes passions en compagnie de camarades avec les mêmes affinités, dans des cadres allant du simple hobby à des projets bien plus sérieux.&nbsp;</p></blockquote><p><a class="btn" href="https://www.ensiie.fr/temoignage-felix-gouedard-suite">(suite)</a></p></div>
+    </div>
+
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Nom</div>        <div class="field__item">Félix Gouédard</div>
+    </div>
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Promotion</div>        <div class="field__item">Promotion 2019</div>
+    </div>
+<div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Cursus</div>        <div class="field__item">Ingénieur ensIIE - Parcours HPC</div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Métier</div>        <div class="field__item">Ingénieur Support HPC dans l’équipe Professional<br />
+Services chez Atos-BULL</div>
+    </div>
+
+  </div>
+  </div><div class="field field--name-field-img-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Photo</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/360x360/public/images/photo_felix_gouedard.png.webp?itok=1GYDo7Ml" width="360" height="360" alt="photo Felix Gouedard" title="photo Felix Gouedard" class="image-style-_60x360" />
+
+
+</div>
+    </div>
+
+
+</div>
+
+</div>
+  <div class="slick__slide slide slide--3"><div class="paragraph paragraph--type-temoignage paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  
+<div >
+    <div class="clearfix text-formatted field field--name-field-cke-unik-1 field--type-text-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Citation</div>        <div class="field__item"><blockquote><p class="bleu">Le parcours JIN de l'ensIIE est une des rares formations publiques dans le domaine du jeu vidéo : ses enseignements ont été un vrai boost pour ma carrière qui a suivi cette dernière année. Je garde un excellent souvenir de la formation. Les anciens JIN forment une grande famille sur laquelle je m'appuie beaucoup aujourd'hui.</p></blockquote><p><a class="btn" href="https://www.ensiie.fr/temoignage-elodie-bouziat-suite">(suite)</a><br>&nbsp;</p></div>
+    </div>
+
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Nom</div>        <div class="field__item">Elodie Bouziat</div>
+    </div>
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Promotion</div>        <div class="field__item">Promotion 2019</div>
+    </div>
+<div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Cursus</div>        <div class="field__item">Ingénieur ensIIE - Parcours JIN</div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Métier</div>        <div class="field__item">Coordinatrice de projets chez Ubisoft</div>
+    </div>
+
+  </div>
+  </div><div class="field field--name-field-img-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Photo</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/360x360/public/images/photo_e_bouziat.png.webp?itok=PwIJS6Vl" width="360" height="360" alt="photo Elodie Bouziat" title="photo Elodie Bouziat" class="image-style-_60x360" />
+
+
+</div>
+    </div>
+
+
+</div>
+
+</div>
+  <div class="slick__slide slide slide--4"><div class="paragraph paragraph--type-temoignage paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  
+<div >
+    <div class="clearfix text-formatted field field--name-field-cke-unik-1 field--type-text-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Citation</div>        <div class="field__item"><blockquote><p class="bleu">Aujourd’hui je suis Ingénieur en Optimisation, en mission dans le département de Recherche Opérationnelle de Air France.&nbsp;</p></blockquote></div>
+    </div>
+
+<div >
+    <div class="field field--name-field-text-unik-1 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Nom</div>        <div class="field__item">Medhi Kaci</div>
+    </div>
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Promotion</div>        <div class="field__item">Promotion 2017</div>
+    </div>
+<div class="field field--name-field-text-unik-3 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Cursus</div>        <div class="field__item">Double cursus ensIIE - Master MPRO Recherche Opérationnelle Université Paris-Saclay</div>
+    </div>
+<div class="field field--name-field-textlon-unik-1 field--type-string-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Métier</div>        <div class="field__item">Aujourd&#039;hui, Ingénieur en Optimisation à Eurodecision</div>
+    </div>
+
+  </div>
+  </div><div class="field field--name-field-img-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Photo</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/360x360/public/articles/temo-photo.png.webp?itok=EkVyvDf-" width="360" height="360" alt="Test" title="Test" class="image-style-_60x360" />
+
+
+</div>
+    </div>
+
+
+</div>
+
+</div>
+</div>
+          <nav role="navigation" class="slick__arrow">
+        <button type="button" data-role="none" class="slick-prev" aria-label="Précédent" tabindex="0">Précédent</button>
+                <button type="button" data-role="none" class="slick-next" aria-label="Suivant" tabindex="0">Suivant</button>
+      </nav>
+    </div>
+
+  </div>
+<div  class="actualites">
+    <div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden"> Titre</div>        <div class="field__item"><h2>Actualités</h2></div>
+    </div>
+<div class="field field--name-dynamic-token-fieldnode-actus-home field--type-ds field--label-hidden">
+          <div class="field__item">           
+            <div class="mineurs" >
+              <div class="views-element-container"><div class="view view-index-actualites view-id-index_actualites view-display-id-block_home_mineurs js-view-dom-id-57364ff703becc78db50de30c83f863781982b7af6217521f337e0d6f1046a67">
+    
+      
+    
+    
+    
+
+      <div class="view-content">
+                  <div class="views-row"><div class="node node--type-actu-evenements node--view-mode-teaser ds-1col clearfix">
+
+  
+
+  <div class="field field--name-node-title field--type-ds field--label-hidden">
+          <div class="field__item"><h2>
+  <a href="/ecole/actualites-et-evenements/bonne-annee-2026" hreflang="fr">Bonne année 2026</a>
+</h2>
+</div>
+    </div>
+<div class="field field--name-node-post-date field--type-ds field--label-hidden">
+          <div class="field__item">05.01.2026</div>
+    </div>
+
+
+</div>
+
+</div>
+          <div class="views-row"><div class="node node--type-actu-evenements node--view-mode-teaser ds-1col clearfix">
+
+  
+
+  <div class="field field--name-node-title field--type-ds field--label-hidden">
+          <div class="field__item"><h2>
+  <a href="/ecole/actualites-et-evenements/fetes-de-fin-dannee-fermeture" hreflang="fr">Fêtes de fin d&#039;année - Fermeture</a>
+</h2>
+</div>
+    </div>
+<div class="field field--name-node-post-date field--type-ds field--label-hidden">
+          <div class="field__item">19.12.2025</div>
+    </div>
+
+
+</div>
+
+</div>
+          <div class="views-row"><div class="node node--type-actu-evenements node--view-mode-teaser ds-1col clearfix">
+
+  
+
+  <div class="field field--name-node-title field--type-ds field--label-hidden">
+          <div class="field__item"><h2>
+  <a href="/ecole/actualites-et-evenements/convention-de-partenariat-avec-ensta-ipp" hreflang="fr">Convention de Partenariat avec ENSTA IPP</a>
+</h2>
+</div>
+    </div>
+<div class="field field--name-node-post-date field--type-ds field--label-hidden">
+          <div class="field__item">23.09.2025</div>
+    </div>
+
+
+</div>
+
+</div>
+  
+    </div>
+  
+          </div>
+</div>
+
+            </div> 
+                    <div class="actu-bottom">
+            <div class="all"><a href="/lecole/actualites-et-evenements?" title="Toutes les actualités">Toutes les actualités</a></div>
+            <div class="rs">
+              <div class="texte">Suivez-nous</div>
+              <div class="field field--name-field-linkedin field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Linkedin</div>        <div class="field__item"><a href="https://www.linkedin.com/school/ensiie/" target="_blank" title="LinkedIn">LinkedIn</a></div>
+    </div>
+
+              <div class="field field--name-field-x field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien X</div>        <div class="field__item"><a href="https://x.com/ensiie" target="_blank" title="X">X</a></div>
+    </div>
+
+              <div class="field field--name-field-facebook field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Facebook</div>        <div class="field__item"><a href="https://www.facebook.com/ENSIIE.91.68/" target="_blank" title="Facebook">Facebook</a></div>
+    </div>
+
+              <div class="field field--name-field-instagram field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Instagram</div>        <div class="field__item"><a href="https://www.instagram.com/ensiie.fr/" target="_blank" title="Instagram">Instagram</a></div>
+    </div>
+
+            </div> 
+          </div> 
+          </div>
+    </div>
+
+  </div><div class="field field--name-field-bloc-newsletter field--type-boolean field--label-visually_hidden">
+  <div class="field__label visually-hidden">Afficher le bloc newsletter</div>        <div class="field__item">              <div class="block block-ensiie-main block-block-ensiie-newsletter">
+  
+    
+      <div class='title'>Recevoir la newsletter de l'ensiie</div>
+<a href="/form/newsletter" class="use-ajax webform-dialog webform-dialog-ensiie_model" data-dialog-options="{&quot;title&quot;:&quot;S&#039;inscrire a la newsletter&quot;,&quot;dialogClass&quot;:&quot;popup-dialog&quot;}" title="s&#039;inscrire">s'inscrire</a>
+<div class='all-newsletter'><a href="/entreprise/newsletters?" title="Toutes nos newsletters">Toutes nos newsletters</a></div>
+
+
+  </div>
+
+            </div>
+    </div>
+
+
+</div>
+
+
+  </div>
+
+  </div>
+
+    </div>
+  </main>
+
+      <footer role="contentinfo">
+        <div class="region region-footer">
+    <div id="block-ensiie-ensiiefooter" class="block block-ensiie-main block-block-ensiie-footer">
+  
+    
+      <div class="field field--name-field-partenaires field--type-entity-reference field--label-visually_hidden">
+  <div class="field__label visually-hidden">Partenaires</div>      <div class="field__items">
+        <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://www.enseignementsup-recherche.gouv.fr/" title="Ministère de l&#039;Enseignement Supérieur et de la Recherche" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/Minist%C3%A8re_de_l%27Enseignement_Sup%C3%A9rieur_et_de_la_Recherche_4.png.webp?itok=xgliKYbi" width="82" height="60" alt="Ministère de l&#039;Enseignement Supérieur et de la Recherche" title="Ministère de l&#039;Enseignement Supérieur et de la Recherche" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://www.imt.fr/" title="IMT" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/Logo_Institut_Mines-T%C3%A9l%C3%A9com.svg_.png.webp?itok=P9xurB6y" width="154" height="60" alt="IMT" title="IMT" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://www.universite-paris-saclay.fr/" title="Université Paris Saclay" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/logo-couleur-rvb-bd-petit.png.webp?itok=3LfAbZMK" width="177" height="60" alt="Université Paris Saclay" title="Université Paris Saclay" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://www.cfa-eve.fr/" title="CFA EVE" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/logoCFAEVE.png.webp?itok=pEwQEITR" width="114" height="60" alt="CFA EVE" title="CFA EVE" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://www.cge.asso.fr/" title="Conférence des grandes écoles" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/CGE_RVB_1417848.png.webp?itok=xEXhYsdu" width="90" height="60" alt="Conférence des grandes écoles" title="Conférence des grandes écoles" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://www.cti-commission.fr/" title="CTI" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/CTI-png.png.webp?itok=ySgzXum8" width="93" height="60" alt="CTI" title="CTI" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/OGHAM22_ISO_9001_V1.png.webp?itok=W5_ZGGMR" width="60" height="60" alt="ISO9001" title="ISO9001" class="image-style-h60" />
+
+
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/EUR-ACE.png.webp?itok=vwIJIZ4B" width="174" height="60" alt="EUR-ACE" title="EUR-ACE" class="image-style-h60" />
+
+
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://travail-emploi.gouv.fr/formation-professionnelle/acteurs-cadre-et-qualite-de-la-formation-professionnelle/article/qualiopi-marque-de-certification-qualite-des-prestataires-de-formation" title="Qualiopi" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/LogoQualiopi-300dpi-Avec%20Marianne_1.png.webp?itok=GZ3KOu7g" width="112" height="60" alt="Qualiopi" title="Qualiopi" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+      <div class="field__item"><div class="taxonomy-term taxonomy-term--type-partenaires taxonomy-term--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field--name-field-img-unik-1 field--type-image field--label-visually_hidden">
+  <div class="field__label visually-hidden">Logo</div>        <div class="field__item">  <a href="https://www.label-ddrs.org/" title="DDRS" target="_blank"><img loading="lazy" src="/sites/default/files/styles/h60/public/partenaires/Logo%202021-24%20-%20ENSIIE%20-%20francais.png.webp?itok=YznpR-V6" width="77" height="60" alt="DDRS" title="DDRS" class="image-style-h60" />
+
+</a>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+        </div>
+  </div>
+
+
+<div class="footer-middle">
+  <div class="clearfix text-formatted field field--name-field-cke-unik-1 field--type-text-long field--label-visually_hidden">
+  <div class="field__label visually-hidden">Adresse</div>        <div class="field__item"><p><strong>ENSIIE Paris &gt; Evry-Courcouronnes</strong><br><strong>1, place de la Résistance</strong><br><strong>91025 Evry-Courcouronnes Cedex</strong><br><strong>FRANCE</strong><br><a href="tel:+33 (1) 69 36 73 50">+33 (1) 69 36 73 50</a></p></div>
+    </div>
+
+  <div class="links">
+    <div class="field field--name-field-itineraire field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Itinéraire</div>        <div class="field__item"><a href="https://www.google.fr/maps/dir//%C3%89cole+Nationale+Sup%C3%A9rieure+d&#039;Informatique+pour+l&#039;Industrie+et+l&#039;Entreprise+(ENSIIE),+1+square+de+la+R%C3%A9sistance,+91000+%C3%89vry-Courcouronnes/@48.6267042,2.4296972,17z/data=!4m17!1m7!3m6!1s0x47e5de1b8b77aa0f:0xe4e86058f717f6e0!2s%C3%89cole+Nationale+Sup%C3%A9rieure+d&#039;Informatique+pour+l&#039;Industrie+et+l&#039;Entreprise+(ENSIIE)!8m2!3d48.6267007!4d2.4322721!16zL20vMDU3d3Jj!4m8!1m0!1m5!1m1!1s0x47e5de1b8b77aa0f:0xe4e86058f717f6e0!2m2!1d2.4322721!2d48.6267007!3e3?entry=ttu" target="_blank" title="Itinéraire">Itinéraire</a></div>
+    </div>
+
+    <div class="field field--name-field-contact field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Contact</div>        <div class="field__item"><a href="/contact" title="Contact">Contact</a></div>
+    </div>
+
+  </div>
+  <div class="rs">
+    <div class='texte'>Suivez-nous</div>
+    <div class='rs-content'>
+      <div class="field field--name-field-linkedin field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Linkedin</div>        <div class="field__item"><a href="https://www.linkedin.com/school/ensiie/" target="_blank" title="LinkedIn">LinkedIn</a></div>
+    </div>
+
+      <div class="field field--name-field-x field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien X</div>        <div class="field__item"><a href="https://x.com/ensiie" target="_blank" title="X">X</a></div>
+    </div>
+
+      <div class="field field--name-field-facebook field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Facebook</div>        <div class="field__item"><a href="https://www.facebook.com/ENSIIE.91.68/" target="_blank" title="Facebook">Facebook</a></div>
+    </div>
+
+      <div class="field field--name-field-instagram field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Instagram</div>        <div class="field__item"><a href="https://www.instagram.com/ensiie.fr/" target="_blank" title="Instagram">Instagram</a></div>
+    </div>
+
+      <div class="field field--name-field-youtube field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Youtube</div>        <div class="field__item"><a href="https://www.youtube.com/@ensiie7624" target="_blank" title="YouTube">YouTube</a></div>
+    </div>
+
+      </div>
+  </div>
+  <div class="links">
+    <div class="field field--name-field-intranet field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Intranet</div>        <div class="field__item"><a href="https://intranet.ensiie.fr" target="_blank" title="Intranet">Intranet</a></div>
+    </div>
+
+    <div class="field field--name-field-nous-rejoindre field--type-link field--label-visually_hidden">
+  <div class="field__label visually-hidden">Lien Nous rejoindre</div>        <div class="field__item"><a href="/formation/concours-et-admission" title="Nous rejoindre">Nous rejoindre</a></div>
+    </div>
+
+  </div>
+</div>
+
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/sitemap" title="Plan du site" data-drupal-link-system-path="sitemap">Plan du site</a>
+              </li>
+                <li class="menu-item">
+        <a href="/informations-legales" title="Informations légales" data-drupal-link-system-path="node/557">Informations légales</a>
+              </li>
+                <li class="menu-item">
+        <a href="/politique-de-confidentialite" title="Politique de confidentialité" data-drupal-link-system-path="node/558">Politique de confidentialité</a>
+              </li>
+                <li class="menu-item">
+        <a href="/credits" title="Crédits" data-drupal-link-system-path="node/559">Crédits</a>
+              </li>
+                <li class="menu-item">
+        <a href="#tarteaucitron" title="Gestion des cookies">Gestion des cookies</a>
+              </li>
+                <li class="menu-item">
+        <span>Site conforme à 80% au RGAA version 4.1 : </span>
+              </li>
+                <li class="menu-item">
+        <a href="/declaration-daccessibilite" class="accessibilite" title="Déclaration d&#039;accessibilité" data-drupal-link-system-path="node/666">Déclaration d&#039;accessibilité</a>
+              </li>
+        </ul>
+  
+
+
+<div class="field field--name-field-text-unik-2 field--type-string field--label-visually_hidden">
+  <div class="field__label visually-hidden">Copyright</div>        <div class="field__item">© Copyright ENSIIE 2024 - Tous droits réservés</div>
+    </div>
+
+<div class="back-to-top" tabindex=0></div>
+  </div>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxdj1FywzAIRC-kiiNlkIVtWiQ0IDfjnL6qxmkn-Vl2H18vCT5OSL8ZZsIi6C7s_dqimK_aVM6VRZ7TtLDTtQzXq90ptbCoEVS1gsIPClSdmWATTSgf3k_huj1pM679Dd4KcoVVtZO9oJ0wvyMtFBoaboZtd8h2NJT4T-JR25GG1E45DLnlC2bGKeendyqQcLh0XD4dZv5164THwt20xtXi-Hwz3R1mxqL5EApDeh22cN2YGUW3H4S3h-I","theme":"ensiie","theme_token":null},"ajaxTrustedUrl":[],"tacjs":{"dialog":{"privacyUrl":"","bodyPosition":"bottom","hashtag":"#tarteaucitron","cookieName":"tarteaucitron","orientation":"bottom","groupServices":false,"serviceDefaultState":"wait","showAlertSmall":false,"cookieslist":false,"showIcon":false,"iconSrc":"","iconPosition":"BottomRight","adblocker":false,"DenyAllCta":true,"AcceptAllCta":true,"highPrivacy":true,"handleBrowserDNTRequest":false,"removeCredit":true,"moreInfoLink":true,"useExternalCss":true,"useExternalJs":true,"cookieDomain":"","readmoreLink":"","mandatory":true,"mandatoryCta":true,"closePopup":false,"customCloserId":""},"services":{"ferank":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"activecampaign":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adform":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsense":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsenseauto":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsensesearch":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsensesearchform":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsensesearchresult":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"aduptech_ads":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"aduptech_conversion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"aduptech_retargeting":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"affilae":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"amazon":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"antvoice":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"bingads":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"clicmanager":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"criteo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"criteoonetag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"datingaffiliation":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"datingaffiliationpopup":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"doubleclick":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"equativ":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"eskimi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ferankpub":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googleads":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googleadwordsconversion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googleadwordsremarketing":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlepartners":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"klaviyo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"kwanko":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"leadforensics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"linkedininsighttag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"outbrain":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"outbrainamplify":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pinterestpixel":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"prelinker":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pubdirecte":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"shareasale":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twenga":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitteruwt":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"vshop":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xandr":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xandrconversion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xandrsegment":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"actistat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adobeanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adobeworkspace":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"alexa":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"amplitude":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"analytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"atinternet":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"clarity":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"clicky":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"compteur":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"contentsquare":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"crazyegg":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"etracker":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"eulerian":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"firebase":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"force24":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"freshsalescrm":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gajs":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"getplus":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"getquanty":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gtag":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"hotjar":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"hubspot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"kameleoon":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"koban":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"leadinfo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"matomo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"matomocloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mautic":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"metrica":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"microanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"microsoftcampaignanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mixpanel":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"multiplegtag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"openwebanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pardot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pianoanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"piwikpro":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"plausible":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"plezi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sharpspring":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"shinystat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"simpleanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"snapchat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"statcounter":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tiktok":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"userpilot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"verizondottag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"visiblee":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"visualrevenue":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"webmecanik":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"weborama":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"woopra":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"wysistat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"wysistathightrack":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xiti":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"zohopagesense":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"abtasty":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"arcio":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"genially":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"geoportail":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlefonts":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlemaps":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlemapssearch":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googletagmanager":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"helloasso":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"jsapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"m6meteo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"marketomunchkin":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"matomotm":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"meteofrance":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mtcaptcha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"multiplegoogletagmanager":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"myfeelback":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"onesignal":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"openstreetmap":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pingdom":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"recaptcha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"stonly":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tagcommander":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"timelinejs":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitterwidgetsapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"typekit":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"disqus":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebookcomment":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"activecampaignvgo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"calendly":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"collectchat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"crisp":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"faciliti":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gagenda":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gallica":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gdocs":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gforms":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlesignin":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"goptimize":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gsheets":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gslides":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"hcaptcha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"maps_noapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"posthog":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"robofabrica":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sendinblue":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"serviceperso":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tolkai":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"trustpilot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ubib":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"addthis":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"addtoanyfeed":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"addtoanyshare":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"discord":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ekomi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebook":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebookcustomerchat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebooklikebox":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebookpixel":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebookpost":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gplus":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gplusbadge":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"instagram":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"linkedin":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pinterest":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"shareaholic":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sharethis":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sharethissticky":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitter":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitterembed":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twittertimeline":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"elfsight":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"intercomChat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"purechat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"smartsupp":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"studizz":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tawkto":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"userlike":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"uservoice":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"zopim":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"acast":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"archive":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"artetv":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ausha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"bandcamp":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"calameo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"canalu":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"dailymotion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"deezer":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"fculture":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"issuu":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mixcloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"playplay":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"podcloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"prezi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"slideshare":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"soundcloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"spotify":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tiktokvideo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitch":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"videas":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"vimeo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"webtvnu":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"youtube":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"youtubeapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false}},"user":{"gtagUa":"G-Z0T5TVV8SS","googletagmanagerId":"GTM-WM3V8R8T"},"texts":{"alertBigPrivacy":"En cliquant sur \u00ab Tout accepter \u00bb, vous acceptez le stockage de cookies sur votre appareil pour am\u00e9liorer la navigation sur le site, analyser son utilisation et contribuer \u00e0 nos efforts de marketing.","personalize":"Personnaliser Mes Choix"},"expire":null},"webform":{"dialog":{"options":{"narrow":{"title":"\u00c9troit","width":600},"normal":{"title":"Normal","width":800},"wide":{"title":"Large","width":1000},"ensiie_model":{"title":"ENSIIE MODEL","width":1260}},"entity_type":"node","entity_id":"1"}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"flash-info","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25,"container":"","loader":true,"unblazy":false,"visibleClass":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"user":{"uid":0,"permissionsHash":"8966b220e097364148a719862d2955e1a9b10306923f7262feb858142dc9a9e1"}}</script>
+<script src="/sites/default/files/js/js_Acf4ozp1mNxX-AGI3FV0WVn9WX-xL-ia2QmA_Ecolnk.js?scope=footer&amp;delta=0&amp;language=fr&amp;theme=ensiie&amp;include=eJxdjlEOAjEIRC-0liMZ2tIVpWUDNWY9vWtTTfTnMW_4mSj43CG-uQxCEnQX9j5dFPOMm8peWOSjppWdphmWmR4Ut4WaMxOsohHl5H0XbutszxW5QVHtZD_VhTD_V1ppOfakGwyGsadjujoMfrN1wnvibtpCsXB8jiFFrcK8ITOKri-8S12X"></script>
+<script src="/modules/custom/ensiie_main/js/footer.js?v=1.x"></script>
+<script src="/modules/custom/ensiie_main/js/header.js?v=1.x"></script>
+<script src="/modules/custom/ensiie_main/js/home.js?v=1.x"></script>
+<script src="/sites/default/files/js/js_Yn6oHcuEvrwI_oGvrl2MzWlceV9G3j2IghZVs3V_73Y.js?scope=footer&amp;delta=4&amp;language=fr&amp;theme=ensiie&amp;include=eJxdjlEOAjEIRC-0liMZ2tIVpWUDNWY9vWtTTfTnMW_4mSj43CG-uQxCEnQX9j5dFPOMm8peWOSjppWdphmWmR4Ut4WaMxOsohHl5H0XbutszxW5QVHtZD_VhTD_V1ppOfakGwyGsadjujoMfrN1wnvibtpCsXB8jiFFrcK8ITOKri-8S12X"></script>
+
+  </body>
+</html>
