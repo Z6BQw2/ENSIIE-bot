@@ -1,0 +1,19 @@
+{
+  "url": "https://www.ensiie.fr/sites/default/files/Charte_IA_ensIIE.pdf",
+  "url_path": "/sites/default/files/Charte_IA_ensIIE.pdf",
+  "domain": "www.ensiie.fr",
+  "resource_type": "downloadable_file",
+  "file_extension": ".pdf",
+  "mime_type": "application/pdf",
+  "filename": "sites_default_files_Charte_IA_ensIIE.pdf_d7a6c8a9.pdf",
+  "file_path": "files/sites_default_files_Charte_IA_ensIIE.pdf_d7a6c8a9.pdf",
+  "file_size_bytes": 200758,
+  "http_status": 200,
+  "last_modified": "Tue, 23 Sep 2025 13:18:27 GMT",
+  "scraped_at": "2026-03-26T15:43:34.302483+00:00",
+  "depth": 5,
+  "parent_url": "https://www.ensiie.fr/ecole/actualites-et-evenements/charte-ia-2025-de-lensiie",
+  "title": "Charte Ia Ensiie",
+  "description": "Document PDF téléchargé depuis https://www.ensiie.fr/sites/default/files/Charte_IA_ensIIE.pdf. Taille : 200,758 octets.",
+  "content_hash_md5": "b1c1716c49c933cb8dc15b44f33a7fc2"
+}
