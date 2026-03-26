@@ -1,0 +1,73 @@
+{
+  "url": "http://www.ensiie.fr/~COM/64_AZERTY/",
+  "canonical_url": "https://www.ensiie.fr/node/483",
+  "url_path": "/~COM/64_AZERTY/",
+  "domain": "www.ensiie.fr",
+  "title": "Erreur 404 | ENSIIE",
+  "description": "Page non trouvée",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Erreur 404"
+    ],
+    "h2": [
+      "Fil d'Ariane"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 19,
+  "char_count": 121,
+  "og_title": "Erreur 404",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:49.124384+00:00",
+  "depth": 8,
+  "parent_url": "https://www.ensiie.fr/ecole/actualites-et-evenements/c-19-global-game-jam-0",
+  "internal_links": [
+    {
+      "url": "http://www.ensiie.fr/~COM/64_AZERTY/",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "http://www.ensiie.fr/",
+      "text": "Retour à la page d’accueil"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 404,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/_COM_64_AZERTY_de950929.txt"
+}

@@ -1,0 +1,129 @@
+{
+  "url": "https://www.ensiie.fr/admissions-sur-titres",
+  "canonical_url": "https://www.ensiie.fr/admissions-sur-titres",
+  "url_path": "/admissions-sur-titres",
+  "domain": "www.ensiie.fr",
+  "title": "Admissions sur Titres | ENSIIE",
+  "description": "Les candidatures pour l'année 2026-2027 sont ouvertes. Pour la 1A : L’admission sur titre est ouverte aux étudiants de niveau BAC+2 minimum, ayant suivi une Licence, un BUT ou un BTS (suivi d’une ATS) dans une formation à dominante informatique et / ou mathématique. Pour la 2A : L’admission sur titre est ouverte aux étudiants de niveau BAC+3 minimum (et de préférence BAC+4) dans une formation à dominante informatique et / ou mathématique.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Admissions sur Titres"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "INSCRIPTION AST UE",
+      "INSCRIPTION AST HORS UE",
+      "Formation initiale sous statut étudiant",
+      "Formation initiale sous statut apprenti",
+      "Formation continue",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE",
+      "Ingénieur(e)s de demain"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 198,
+  "char_count": 1354,
+  "og_title": "Admissions sur Titres",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:08.574818+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/formation/concours-et-admission",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/admissions-sur-titres",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/admission-sur-titre-en-premiere-annee-0",
+      "text": "Admission sur titre en formation initiale sous statut étudiant"
+    },
+    {
+      "url": "https://www.ensiie.fr/formation/concours-et-admission/formation-par-apprentissage",
+      "text": "Admission en formation initiale sous statut apprenti"
+    },
+    {
+      "url": "https://www.ensiie.fr/formation/concours-et-admission/formation-continue",
+      "text": "Admission en Formation continue"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/ingenieures-de-demain",
+      "text": "Ingénieur(e)s de demain"
+    }
+  ],
+  "external_links": [
+    {
+      "url": " http://frontal.pedago.ensiie.fr/limesurvey/index.php/366979?lang=fr ",
+      "text": "Déclaration de candidature (à remplir en premier)"
+    },
+    {
+      "url": " http://frontal.pedago.ensiie.fr/limesurvey/index.php/566621?lang=fr ",
+      "text": "Pièces à joindre (à remplir une fois la déclaration de candidature effectuée)"
+    },
+    {
+      "url": "https://pastel.diplomatie.gouv.fr/etudesenfrance ",
+      "text": "Accès à la plateforme Etudes en France"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/Tableau_orientation_ENSIIE.jpg",
+      "alt": "orientation",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/admissions-sur-titres",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/images/admission2026.jpg",
+      "alt": "",
+      "title": ""
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/admissions-sur-titres_038b2e4c.txt"
+}

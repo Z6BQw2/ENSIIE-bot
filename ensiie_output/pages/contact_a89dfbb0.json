@@ -1,0 +1,73 @@
+{
+  "url": "https://www.ensiie.fr/contact",
+  "canonical_url": "https://www.ensiie.fr/contact",
+  "url_path": "/contact",
+  "domain": "www.ensiie.fr",
+  "title": "Contact | ENSIIE",
+  "description": "Merci de compléter le formulaire ci-dessous.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "Contact"
+    ],
+    "h2": [
+      "Fil d'Ariane"
+    ],
+    "h3": [],
+    "h4": []
+  },
+  "word_count": 960,
+  "char_count": 6701,
+  "og_title": "Contact",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:15.294253+00:00",
+  "depth": 2,
+  "parent_url": "https://www.ensiie.fr/formation/trouver-votre-formation/la-formation-initiale-sous-statut-etudiant-fise",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/contact",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "https://www.ensiie.fr/politique-de-confidentialite",
+      "text": "politique de gestion des données personnelles"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/contact_a89dfbb0.txt"
+}
