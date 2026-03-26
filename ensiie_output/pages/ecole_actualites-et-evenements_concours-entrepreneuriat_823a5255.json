@@ -1,0 +1,125 @@
+{
+  "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/concours-entrepreneuriat",
+  "canonical_url": "https://www.ensiie.fr/",
+  "url_path": "/ecole/actualites-et-evenements/concours-entrepreneuriat",
+  "domain": "www.ensiie.fr",
+  "title": "CONCOURS ENTREPRENEURIAT | ENSIIE",
+  "description": "17ème édition du Trophée Start-up Numérique organisé par IMT Starter, l'incubateur commun de l'ensIIE, Institut Mines-Télécom Business School et de Télécom SudParis.",
+  "keywords": "",
+  "author": "",
+  "language": "fr",
+  "headings": {
+    "h1": [
+      "CONCOURS ENTREPRENEURIAT"
+    ],
+    "h2": [
+      "Fil d'Ariane",
+      "Campagne recrutement enseignant-chercheur 2026",
+      "FAQ",
+      "Webinaire d'info : Master of Science de l'ensIIE"
+    ],
+    "h3": [],
+    "h4": [
+      "Candidatez dès maintenant pour :"
+    ]
+  },
+  "word_count": 172,
+  "char_count": 1255,
+  "og_title": "CONCOURS ENTREPRENEURIAT",
+  "og_image": "https://www.ensiie.fr/sites/default/files/articles/IMT-TSN_PostLinkedin_avec-date_1080x1080_E2.jpg",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "robots": "index, follow",
+  "last_modified": "",
+  "scraped_at": "2026-03-26T15:43:07.833264+00:00",
+  "depth": 1,
+  "parent_url": "https://www.ensiie.fr/",
+  "internal_links": [
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/concours-entrepreneuriat",
+      "text": "Aller au contenu principal"
+    },
+    {
+      "url": "mailto:?subject=Partager la page par mail : CONCOURS ENTREPRENEURIAT&body=https://www.ensiie.fr/ecole/actualites-et-evenements/concours-entrepreneuriat",
+      "text": "Envoyer par mail"
+    },
+    {
+      "url": "https://www.ensiie.fr/lecole/actualites-et-evenements",
+      "text": "Toutes les actualités"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/participez-au-jobdating-ensiie-cfa-eve-rencontrez-vos-futurs-talents",
+      "text": "Participez au JobDating ensIIE & CFA EVE – Rencontrez vos futurs talents en informatique !"
+    },
+    {
+      "url": "https://www.ensiie.fr/campagne-recrutement-enseignant-chercheur-2026",
+      "text": "Campagne recrutement enseignant-chercheur 2026"
+    },
+    {
+      "url": "https://www.ensiie.fr/faq",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://www.ensiie.fr/ecole/actualites-et-evenements/webinaire-dinfo-master-science-de-lensiie",
+      "text": "Webinaire d'info : Master of Science de l'ensIIE"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://lnkd.in/e6ig6eAH",
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.ensiie.fr/ecole/actualites-et-evenements/concours-entrepreneuriat&title=CONCOURS+ENTREPRENEURIAT",
+      "text": "LinkedIn"
+    },
+    {
+      "url": "http://twitter.com/share?url=https://www.ensiie.fr/ecole/actualites-et-evenements/concours-entrepreneuriat&text=CONCOURS+ENTREPRENEURIAT&size=l&count=none",
+      "text": "Twitter"
+    },
+    {
+      "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.ensiie.fr/ecole/actualites-et-evenements/concours-entrepreneuriat",
+      "text": "Facebook"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/googletagmanager/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/gtag/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    },
+    {
+      "url": "https://tarteaucitron.io/service/youtube/",
+      "text": "En savoir plus"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Voir le site officiel"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ensiie.fr/sites/default/files/styles/ensiie/public/articles/IMT-TSN_PostLinkedin_avec-date_1080x1080_E2.jpg.webp?itok=FomfPl_L",
+      "alt": "visuel",
+      "title": "visuel"
+    },
+    {
+      "src": "https://lnkd.in/e6ig6eAH",
+      "alt": "INFORMATION ET CANDIDATURE",
+      "title": ""
+    }
+  ],
+  "resource_type": "html_page",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_file": "pages/ecole_actualites-et-evenements_concours-entrepreneuriat_823a5255.txt"
+}
