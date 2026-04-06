@@ -1,0 +1,8 @@
+beautifulsoup4
+faiss-cpu
+langdetect
+numpy
+Pillow
+PyMuPDF
+pytesseract
+dotenv
